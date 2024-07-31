@@ -48,7 +48,7 @@ website:
       <a class="link" href="https://scholar.google.com/citations?user=3FkjaTQAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
       
     right: |
-      <span class="faux-block">Made with [Quarto](https://quarto.org/) &#8729; [View the source on {{< fa brands github >}}](https://github.com/chesthurber/cheswebsite_quarto) Github</span>
+      <span class="faux-block">Made with [Quarto](https://quarto.org/) &#8729; [View the source on {{< fa brands github >}} Github](https://github.com/chesthurber/cheswebsite_quarto) </span>
 
 google-analytics: G-G2MS4N0845
 
