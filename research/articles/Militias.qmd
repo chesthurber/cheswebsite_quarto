@@ -1,0 +1,45 @@
+---
+title: "Militias as Sociopolitical Movements: Lessons from Iraq's Armed Shia Groups"
+author: 
+    - name: 
+        given: Ches
+        family: Thurber
+        literal: Ches Thurber
+      orcid: 0000-0002-3407-7589
+logo: "logos/SWI.jpeg"    
+date: "2014-10"
+pub-info:
+  reference: '“Militias as Sociopolitical Movements: Lessons from Iraq`s Armed Shia Groups.” <em>Small Wars and Insurgencies</em> 25 no. 5-6 (2014): 900-923.'
+  
+  links:
+    - name: Final version (Restricted)
+      url: https://doi.org/10.1080/09592318.2014.945633
+      icon: fa-solid fa-arrow-up-right-from-square
+    - name: Preprint
+      url: https://www.researchgate.net/publication/266622516_Militias_as_sociopolitical_movements_Lessons_from_Iraq's_armed_Shia_groups
+      icon: fa-solid fa-file-pdf
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1080/09592318.2014.945633
+      icon: ai ai-zotero-square
+categories:
+    - militias
+    - rebel governance
+    - civil war
+
+citation:
+  type: article-journal
+  title: "Militias as sociopolitical movements: Lessons from Iraq's armed Shia groups"
+  container-title: Small Wars and Insurgencies
+  volume: 25
+  issue: 5-6
+  issued: 2014
+  page-first: 900
+  page-last: 923
+  url: https://doi.org/10.1080/09592318.2014.945633
+google-scholar: true
+---
+
+### Abstract 
+
+The Shia militia has emerged as one of the most powerful and important actors in the Middle East security environment. Despite this trend, they remain poorly understood by scholars and policymakers alike. This article seeks to expand our understanding of the militia as a type of non-state armed group through an examination of Shia militia movements in Iraq between 2003 and 2009. More than simply warlords, paramilitaries, or foreign proxies, Shia militias in Iraq enjoyed substantial popular legitimacy, pursued a broad social and political agenda, and participated actively in the formal institutions of the state. Understanding the triangular relationship between the militia, the state, and the population is essential in explaining the rise and fall of the Shia militias during the US occupation as well as in developing strategies to deal with their most recent resurgence
+

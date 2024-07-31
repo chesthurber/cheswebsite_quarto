@@ -1,0 +1,48 @@
+- title: International Security
+  description: "Seminar addresses major theoretical perspectives in security studies, surveys some of the most important substantive areas and debates in the field, and applies theories and arguments from the academic literature to contemporary policy problems. Topics to be covered include but are not limited to the use of force, weapons of mass destruction, intra-state conflict, and great power rivalry.
+"
+  university: Northern Illinois University
+  number: POLS 681
+  logo: logos/POLS681.jpg
+  semester:
+  - name: Spring 2024
+    url: syllabi/POLS681_Syllabus_Spring2024.pdf
+  
+- title: Contentious Politics
+  description: "Seminar addresses major theoretical perspectives in security studies, surveys some of the most important substantive areas and debates in the field, and applies theories and arguments from the academic literature to contemporary policy problems. Topics to be covered include but are not limited to the use of force, weapons of mass destruction, intra-state conflict, and great power rivalry.
+"
+  university: Northern Illinois University
+  number: POLS 689
+  logo: logos/POLS689.jpg
+  semester:
+  - name: Spring 2022
+    url: syllabi/POLS689_Syllabus_Spring2022.pdf
+  
+- title: Introductory Analysis of Political Data
+  description: "Consideration of basic concepts in data analysis and statistics such as central tendency, dispersion, probability, confidence intervals, statistical significance, correlation, and bivariate regression."
+  university: Northern Illinois University
+  number: POLS 641
+  logo: logos/POLS641.jpg
+  semester:
+  - name: Fall 2021
+    url: syllabi/POLS641_Syllabus_Fall2021.pdf
+
+- title: Intermediate Analysis of Political Data
+  description: "Regression analysis techniques in political research. Simple bivariate statistical models through structural modeling."
+  university: Northern Illinois University
+  number: POLS 642
+  logo: logos/POLS642.png
+  semester:
+  - name: Fall 2021
+    url: syllabi/POLS642_Syllabus_Spring2021.pdf
+  
+- title: Theories of International Relations
+  description: "Seminar surveying the major theories and methods used in contemporary international relations. Consideration of the nature of international relations and provides a broad sampling of systemic and subsystemic approaches."
+  university: Northern Illinois University
+  number: POLS 680
+  logo: logos/POLS680.jpg
+  semester:
+  - name: Fall 2017
+    url: syllabi/POLS680_Syllabus_Fall2017.pdf
+
+

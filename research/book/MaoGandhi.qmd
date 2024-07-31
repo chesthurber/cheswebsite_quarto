@@ -1,0 +1,40 @@
+---
+title: "Between Mao and Gandhi: the Social Roots of Civil Resistance"
+author: 
+    - name: 
+        given: Ches
+        family: Thurber
+        literal: Ches Thurber
+      orcid: 0000-0002-3407-7589
+      
+date: "2021-09"
+logo: "logos/MaoGandhiCover.jpeg"
+pub-info:
+  reference: '<em>Between Mao and Gandhi: the Social Roots of Civil Resistance.</em> Cambridge University Press (2021).'
+  links:
+    - name: Buy the book
+      url: https://www.amazon.com/Between-Cambridge-Studies-Contentious-Politics/dp/110892784X/
+      icon: fa-brands fa-amazon
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1017/9781108933278
+      icon: ai ai-zotero-square
+categories:
+    - civil resistance
+    - civil war
+    - social networks
+citation:
+  type: book
+  title: "Between Mao and Gandhi: the Social Roots of Civil Resistance"
+  publisher: Cambridge University Press
+  issued: 2021
+  url: https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/comparative-politics/between-mao-and-gandhi-social-roots-civil-resistance?format=PB
+google-scholar: true
+---
+
+::: {layout-ncol=2}
+
+![](Cover.jpeg)
+
+From Eastern Europe to South Africa to the Arab Spring, nonviolent action has proven capable of overthrowing autocratic regimes and bringing about revolutionary political change. How do dissidents come to embrace a nonviolent strategy in the first place? Why do others rule it out in favor of taking up arms? Despite a new wave of attention to the effectiveness and global impact of nonviolent movements, our understanding of their origins and trajectories remains limited. Drawing on cases from Nepal, Syria, India and South Africa, as well as global cross-national data, this book details the processes through which challenger organizations come to embrace or reject civil resistance as a means of capturing state power. It develops a relational theory, showing how the social ties that underpin challenger organizations shape their ability and willingness to attempt regime change using nonviolent means alone.
+
+:::

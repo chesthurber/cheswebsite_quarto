@@ -1,0 +1,48 @@
+---
+title: "Ethnic Barriers to Civil Resistance"
+author: 
+    - name: 
+        given: Ches
+        family: Thurber
+        literal: Ches Thurber
+      orcid: 0000-0002-3407-7589
+
+logo: "logos/JoGSS.jpeg"    
+date: "2018"
+pub-info:
+  reference: '“Ethnic Barriers to Civil Resistance.” <em>Journal of Global Security Studies</em> 3 no. 3 (2018): 255-270.'
+  
+  links:
+    - name: Final version (Restricted)
+      url: https://doi.org/10.1093/jogss/ogy018
+      icon: fa-solid fa-arrow-up-right-from-square
+    - name: Preprint
+      url: https://www.researchgate.net/publication/328748471_Ethnic_Barriers_to_Civil_Resistance
+      icon: fa-solid fa-file-pdf
+    - name: Data and Code
+      url:  https://doi.org/10.7910/DVN/X7J1WC
+      icon: fa-solid fa-table
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1093/jogss/ogy018
+      icon: ai ai-zotero-square
+categories:
+    - civil resistance
+    - ethnic conflict
+    - civil wars
+
+citation:
+  type: article-journal
+  title: "Ethnic barriers to civil resistance"
+  container-title: Journal of Global Security Studies
+  volume: 3
+  issue: 3
+  issued: 2018
+  page-first: 255
+  page-last: 270
+  url: https://doi.org/10.1093/jogss/ogy018
+google-scholar: true
+---
+
+### Abstract 
+
+While ethnic cleavages have featured prominently in our understanding of civil wars, attention to ethnic and social structures has been surprisingly absent from the recent wave of research on civil resistance. Yet these structures likely have an important impact on when and where we see nonviolent campaigns occur. This article argues that the strategic logic of civil resistance presents high barriers to entry for politically excluded ethnic minorities. Constraints on these groups’ ability to activate mechanisms central to an exclusively nonviolent strategy either prevent them from getting a civil resistance campaign off the ground or deter them from ever attempting to do so. Using original data on the ethnic composition of nonviolent and violent campaigns, I show that nonviolent campaigns are less likely than violent ones to include participants from politically disadvantaged ethnic groups and also less likely to feature ethnic political claims. Furthermore, I find that political exclusion and small group size reduce the likelihood that members of an ethnic group will initiate a campaign of civil resistance.

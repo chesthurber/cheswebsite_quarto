@@ -1,0 +1,77 @@
+
+
+# website settings
+website:
+  title: "Ches Thurber"                                # Your name
+  description: "Scholar of global conflict and security"   # A brief slogan (optional)
+  image: img/Thurber_Profile.jpg
+  
+  favicon: img/icon-32.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: img/icon-32.png
+    
+    # your sub-pages
+    right:
+      - text: "Book"
+        href: research/book/MaoGandhi.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Media"
+        href: media/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    
+    # your social media handles
+ 
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  
+  page-footer: 
+    left: |
+      <span class="faux-block"> {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} 2024 Ches Thurber</span>
+    
+    center: |
+      
+      <a class="link" href="https://github.com/chesthurber" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link" href="https://linkedin.com/in/chesthurber" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+      <a class="link" href="https://x.com/ChesThurber" title="twitter" target="_blank" rel="noopener">{{< fa brands twitter >}}</a>
+      <a class="link" href="https://orcid.org/0000-0002-3407-7589" title="orcid" target="_blank" rel="noopener">{{< fa brands orcid >}}</a>
+      <a class="link" href="https://www.researchgate.net/profile/Ches-Thurber" title="ResearchGate" target="_blank"rel="noopener">{{< fa brands researchgate >}}</a>
+      <a class="link" href="https://scholar.google.com/citations?user=3FkjaTQAAAAJ&hl=en" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
+      
+    right: |
+      <span class="faux-block">Made with [Quarto](https://quarto.org/) &#8729; [View the source on {{< fa brands github >}}](https://github.com/chesthurber) Github</span>
+
+google-analytics: G-G2MS4N0845
+
+project:
+  type: website
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - lux
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

@@ -1,0 +1,37 @@
+---
+title: "Ches Thurber"
+subtitle: "International Relations<br>Peace, Conflict, and Security"
+image: "img/Thurber_Profile.jpg"
+about:
+  template: trestles
+  id: about-block
+  image-shape: round
+  links:
+    - icon: file-earmark-pdf
+      text: CV
+      href: "cv/CV_Thurber.pdf"
+      aria-label: file-earmark-pdf
+    - icon: amazon
+      text: Books
+      href: "https://www.amazon.com/s?i=stripbooks&rh=p_27%3AChes+Thurber&s=relevancerank&text=Ches+Thurber&ref=dp_byline_sr_book_1"
+      aria-label: amazon
+    - text: "{{< ai google-scholar >}} Articles"
+      href: "https://scholar.google.com/citations?user=3FkjaTQAAAAJ&hl=en"
+  
+---
+
+::: {#about-block}
+
+Dr. Ches Thurber is an Associate Professor of [Political Science](www.polisci.niu.edu) at [Northern Illinois University](www.niu.edu). His scholarship examines global conflicts ranging from nonviolent resistance movements to war, terrorism, and genocide.
+
+He is the the author of [*Between Mao and Gandhi: the Social Roots of Civil Resistance.*](https://www.amazon.com/Between-Cambridge-Studies-Contentious-Politics/dp/110892784X/) His work has been published in *International Studies Quarterly*, the *Journal of Peace Research,*  *Perspectives on Politics,* and other peer-reviewed journals. 
+
+He previously held research fellowships at the Harvard Kennedy School, the University of Chicago, and the University of Denver's Korbel School. He received his Ph.D. from The Fletcher School of Law and Diplomacy at Tufts University and his B.A. from Middlebury College. 
+
+:::
+
+
+
+
+
+

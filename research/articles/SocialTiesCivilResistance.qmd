@@ -1,0 +1,44 @@
+---
+title: "Social Ties and the Strategy of Civil Resistance"
+author: 
+    - name: 
+        given: Ches
+        family: Thurber
+        literal: Ches Thurber
+      orcid: 0000-0002-3407-7589
+logo: "logos/ISQ.png"    
+date: "2019"
+pub-info:
+  reference: '“Social Ties and the Strategy of Civil Resistance.” <em>International Studies Quarterly</em> 63 no. 4 (2019): 974-986.'
+  
+  links:
+    - name: Final version (Restricted)
+      url: https://doi.org/10.1093/isq/sqz049
+      icon: fa-solid fa-arrow-up-right-from-square
+    - name: Preprint
+      url: https://www.researchgate.net/publication/334447312_Social_Ties_and_the_Strategy_of_Civil_Resistance
+      icon: fa-solid fa-file-pdf
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1093/isq/sqz049
+      icon: ai ai-zotero-square
+categories:
+    - civil resistance
+    - social networks
+
+citation:
+  type: article-journal
+  title: "Social ties and the strategy of civil resistance"
+  container-title: International Studies Quarterly
+  volume: 63
+  issue: 4
+  issued: 2019
+  page-first: 974
+  page-last: 986
+  url: https://doi.org/10.1093/isq/sqz049
+google-scholar: true
+---
+
+### Abstract 
+
+This article examines the impact of social ties on a challenger's ability to initiate a civil resistance campaign. Recent waves of nonviolent uprisings, from the color revolutions of Eastern Europe to the Arab Spring, have sparked renewed scholarly interest in civil resistance as a strategy in conflict. However, most research has focused on the effectiveness and outcomes of civil resistance, with less attention paid to when, why, and how challengers to regime power come to embrace a strategy of nonviolent action in the first place. Drawing upon a longitudinal analysis of challenger organizations and coalitions in Nepal, this article illustrates how social ties inform challengers’ assessments of the viability of civil resistance and consequently shape their strategic behavior. The findings complicate state-centric approaches to contentious politics by showing how diverse actors within the same state face different sets of political opportunities and constraints. They also highlight the indeterminate effects of ideology, as variation in challengers’ social ties drive Gandhians to take up arms and Maoists to lay them down.
+

@@ -1,0 +1,51 @@
+---
+title: "From Doctrine to Detonation: Ideology, Competition, and Terrorism in Campaigns of Mass Resistance"
+author: 
+    - name: 
+        given: Margherita
+        family: Belgioioso
+        literal: Margherita Belgioioso
+      orcid: 0000-0002-1825-0257
+    - name: 
+        given: Ches
+        family: Thurber
+        literal: Ches Thurber
+      orcid: 0000-0002-3407-7589
+
+logo: "logos/JPR.jpeg"    
+date: "2024"
+pub-info:
+  reference: '“From Doctrine to Detonation: Ideology, Competition, and Terrorism in Campaigns of Mass Resistance,” with Margherita Belgioioso. <em>Journal of Peace Research</em> 61 no. 3 (2024): 333-350.'
+  
+  links:
+    - name: Final version (Open Access)
+      url: https://doi.org/10.1177/00223433221135338
+      icon: fa-solid fa-arrow-up-right-from-square
+    - name: Data and Code
+      url: https://cdn.cloud.prio.org/files/57df76d5-9da1-4223-a3bf-1d207e1a2599/From%20Doctrine%20to%20Detonation.zip
+      icon: fa-solid fa-table
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1177/00223433221135338
+      icon: ai ai-zotero-square
+categories:
+    - terrorism
+    - ideology
+    - civil resistance
+    - civil war
+
+citation:
+  type: article-journal
+  title: "From doctrine to detonation: ideology, competition, and terrorism in campaigns of mass resistance"
+  container-title: Journal of Peace Research
+  volume: 61
+  issue: 3
+  issued: 2024
+  page-first: 333
+  page-last: 350
+  url: https://doi.org/10.1177/00223433221135338
+google-scholar: true
+---
+
+### Abstract 
+
+This study proposes an organizational mechanism that links ideology to the use of terrorism in mass dissident campaigns. Ideology affects the level of competition among factions within mass dissident campaigns by shaping whether actors see their interactions as a positive- or zero-sum game. We identify ideological diversity within a campaign and the degree to which ideologies embrace the principle of pluralism as key factors affecting the intensity of factional competition and, consequently, the occurrence of terrorism. We introduce new data on the ideologies of campaigns from the Nonviolent and Violent Campaigns and Outcomes 2.0 dataset and use causal mediation analysis to test our proposed mechanism. We find that greater ideological diversity within a campaign increases the likelihood of terrorism by increasing factional competition. We also find that the presence of a pluralist ideology is associated with a lower likelihood of terrorism by the lowering of factional competition. By shedding light on the mechanisms that link ideology to terrorism, this study helps advance our understanding of why dissident groups might decide to use terrorism tactics within the context of a campaign of mass resistance.

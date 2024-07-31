@@ -1,0 +1,54 @@
+---
+title: "The Security-Force Ethnicity (SFE) Project: Introducing a new dataset"
+author: 
+    - name: 
+        given: Paul
+        family: Johnson
+        literal: Paul Lorenzo Johnson
+      orcid: 0000-0001-5189-7290
+    - name: 
+        given: Ches
+        family: Thurber
+        literal: Ches Thurber
+      orcid: 0000-0002-3407-7589
+
+logo: "logos/CMPS.jpeg"    
+date: "2020"
+pub-info:
+  reference: '“The Security-Force Ethnicity (SFE) Project: Introducing a new dataset,” with Paul Lorenzo Johnson. <em>Conflict Management and Peace Science</em> 37 no. 1 (2020): 106-129.'
+  
+  links:
+    - name: Final version (Restricted)
+      url: https://doi.org/10.1177/0738894217709012
+      icon: fa-solid fa-arrow-up-right-from-square
+    - name: Preprint
+      url: https://www.researchgate.net/publication/317550389_The_Security-Force_Ethnicity_SFE_Project_Introducing_a_new_dataset?utm_source=twitter&rgutm_meta1=eHNsLW9RenpiQlp2cHNHTXhLMUROdEtLeVFlbU9CM3owTHh0dzBxZkwxOWUxeWJZeDVuT2tIZmRpcGRseGlxa2VxRm5qN3RlUWVGV1JEQld5SEZDSmdmVGh2MD0%3D 
+      icon: fa-solid fa-file-pdf
+    - name: Data and Code
+      url: https://doi.org/10.7910/DVN/11ZIRS
+      icon: fa-solid fa-table
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1177/0738894217709012
+      icon: ai ai-zotero-square
+categories:
+    - civil-military relations
+    - ethnic conflict
+    - coups
+    - repression
+
+citation:
+  type: article-journal
+  title: "The security-force ethnicity (SFE) project: introducing a new dataset"
+  container-title: Conflict Management and Peace Science
+  volume: 37
+  issue: 1
+  issued: 2020
+  page-first: 106
+  page-last: 129
+  url: https://doi.org/10.1177/0738894217709012
+google-scholar: true
+---
+
+### Abstract 
+
+The ethnic composition of state security forces is believed to have important effects on the dynamics of conflict processes, but data limitations have impeded our ability to test such hypotheses cross-nationally until now. To address this problem, the Security Force Ethnicity dataset provides time-series, group-level measures of the ethnic composition of military forces in the Middle East between 1946 and 2013. We draw on an extensive review of case studies and histories to produce unique ordinal codings for participation rates in the officer corps and in the rank and file. We demonstrate the utility of the data through empirical applications, examining the relationship between military ethnic composition and the incidence of coups and repression. Our findings illustrate the theoretical and empirical importance of disaggregating ethnic representation in the military from inclusion in other institutions of the state.
