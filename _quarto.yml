@@ -7,6 +7,7 @@ website:
   image: img/Thurber_Profile.jpg
   
   favicon: img/icon-32.png
+
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -61,7 +62,7 @@ project:
     navigate: true
 
 execute:
-  freeze: true
+  freeze: auto
 
 format:
   html:
