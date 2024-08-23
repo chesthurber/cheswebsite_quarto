@@ -5,6 +5,7 @@
   logo: logos/POLS285.jpg
   semester:
   - name: Fall 2024 (online)
+    url: syllabi/POLS285_Syllabus_Fall2024_online.qmd
   - name: Spring 2022 (Honors)
     url: syllabi/POLS285_Honors_Syllabus_Spring2022.pdf
     
