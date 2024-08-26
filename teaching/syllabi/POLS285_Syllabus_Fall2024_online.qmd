@@ -1,7 +1,7 @@
 ---
 title: 'POLS 285 --- Introduction to International Relations' 
 subtitle: 'Fall 2024: Online Section (0Y02)'
-date-modified: 'August 21, 2024'
+date-modified: 'August 25, 2024'
 page-layout: full
 toc: true
 ---
@@ -63,7 +63,6 @@ advdate <- function(wk, dy) {
 :::
 :::
 
-
 ## What is this course about?
 
 Russia appears on the brink of invading Ukraine. North Korea continues to develop its nuclear arsenal, while Iran may be headed toward developing its own. Meanwhile, global climate change poses a catastrophic threat to the planet, while global actors seem unable to do anything in response. This class seeks to address why global cooperation can be so difficult even if most of the world shares similar goals of peace and prosperity. To do so, we will try to use the tools of social “science” to analyze both historical events and contemporary challenges. We will discuss issues ranging from war and peace to economic development, and from transnational migration to global health.
@@ -114,7 +113,7 @@ By midnight every Sunday, you will be required to post *THREE* times on the Pack
 
 *Discussion Board Posts (25%):* For each week of the course, there will be an online discussion board. Students are expected to contribute at least one post of 200 words in length each week, by midnight on Sunday.
 
-*Reading Quizzes (10%):* For each week of the course, there will be an online multiple choice quiz on the readings and video lectures. Students will be able to re-take the quiz one time. Quizzes must be complete by midnight on Sunday.
+*Reading Quizzes (10%):* For each week of the course, there will be an online multiple choice quiz on the readings and video lectures. Quizzes are open-book and open-note. Students will be able to re-take the quiz one time. Quizzes must be complete by midnight on Sunday.
 
 *Writing Assignment: (25%)* You will write one 1,000-word policy memo. You will submit an initial draft for grading (10%) and then revise the draft based on instructor feedback for a second (higher) grade (15%).
 

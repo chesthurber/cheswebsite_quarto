@@ -1,7 +1,7 @@
 ---
 title: 'POLS 285 --- Introduction to International Relations' 
 subtitle: 'Fall 2024 | M/W 2:00-3:15pm | DuSable 228'
-date-modified: 'August 24, 2024'
+date-modified: 'August 25, 2024'
 page-layout: full
 toc: true
 ---
@@ -96,7 +96,7 @@ Attendance and active participation in class discussions is required. It is esse
 
 ## How can you contact me?
 
-Please feel free to email me or the course teaching assistants at any time. We will try to respond within about 24 hours during the week. I will be holding office hours on Mondays and Tuesdays between 9:30 and 11:00am. I strongly encourage you to take advantage of this; since we don't have class in person, this is the best chance I have to get to know you! Sign up for an appointment at [this link.](https://calendly.com/chesthurber/officehours) Enter your NIU email address and Calendly will automatically set up a Zoom meeting for the two of us at the time that you selected.
+Please feel free to email me or the course teaching assistants at any time. We will try to respond within about 24 hours during the week. I will be holding office hours on Mondays and Tuesdays between 9:30 and 11:00am. I strongly encourage you to take advantage of this! Sign up for an appointment at [this link.](https://calendly.com/chesthurber/officehours) Enter your NIU email address and Calendly will automatically set up a Zoom meeting for the two of us at the time that you selected.
 
 ## What Materials Do You Need?
 
@@ -112,7 +112,7 @@ Students looking for further support may wish to consult the following optional 
 
 *Class Attendance and Participation (20%):* For each week of the course, there will be an online discussion board. Students are expected to contribute at least one post of 200 words in length each week, by midnight on Sunday. The time we spend in class is for me the most important of this course. As such, punctual attendance is mandatory. But more important than just being present at a desk is that you are actively engaged. I expect that you have done the readings and that you try to participate in discussion each and every class section. You may miss up to 2 classes during the course of the semester without penalty. Beyond that, I ask that you write a brief 1-page summary of the readings assigned for the missed day as make-up work to receive attendance credit. Make-up reading summaries are due by the beginning of the next class.
 
-*Reading Quizzes (10%):* For each week of the course, there will be an online multiple choice quiz on the readings and video lectures. Students will be able to re-take the quiz one time. Quizzes must be complete by the start of class on Wednesday.
+*Reading Quizzes (10%):* For each week of the course, there will be an online multiple choice quiz on the readings and video lectures. The quizzes are open-book and open-note. Students will be able to re-take the quiz one time. Quizzes must be complete by the start of class on Wednesday.
 
 *Writing Assignment: (25%)* You will write one 1,000-word policy memo. You will submit an initial draft for grading (10%) and then revise the draft based on instructor feedback for a second (higher) grade (15%).
 
