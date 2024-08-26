@@ -132,6 +132,7 @@ Students are expected to read the listed readings before the indicated class ses
 |                                             | -   Install R and R Studio                                                                                      |
 |                                             | -   Download the [course files](https://press.princeton.edu/student-resources/data-analysis-for-social-science) |
 |                                             | -   Run all of the example code in DSS Ch. 1                                                                    |
+|                                             | -   If you can, download and complete DSS Ch. 1 Tutorial                                                        |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 | **Week 2: Concepts and Measures**           | *Tue 9/3:*                                                                                                      |
 |                                             |                                                                                                                 |
