@@ -1,0 +1,103 @@
+---
+title: "W2L1: Intro"
+subtitle: "POLS 641 Introductory Analysis of Political Data"
+author: "Dr. Ches Thurber"
+format: 
+  revealjs:
+    theme: blood
+editor: visual
+---
+
+## Activity
+
+1\) Look at your tube (No Touching!!)
+
+2\) Draw a diagram of what you think is inside
+
+3\) Share your diagram with your teammates
+
+4\) Come up with three distinct tests that will help you determine whose drawing is right
+
+5\) Conduct each test
+
+6\) Re-draw
+
+## What was the point of this?!?
+
+## Methods Curriculum at NIU
+
+-   602: Epistomology - philosophically, how do we "know" things about the world?
+
+-   603: Methodology - practically, how do we "learn" things about the world? how do we search for evidence to evaluate arguments
+
+-   641: Quantitative Methods 1 - how can we use numbers as evidence to evaluate arguments
+
+-   642: Quant Methods 2 - more of the same
+
+-   643: Qualitative Methods - how can we use qualitative evidence to evaluate arguments
+
+## Methodology in 10 Minutes
+
+1\) We are going to ask questions
+
+-   normative
+
+-   conceptual
+
+-   empirical
+
+    -   descriptive
+
+    -   causal
+
+*Often, we will center our questions around a puzzle: why did this happen here, but something different happened over there?*
+
+## Methodology in 10 Minutes
+
+2\) We are going to make arguments
+
+-   using concepts as our building blocks
+
+-   develop *theories* about how these concepts relate to themselves or each other
+
+-   develop *alternative explanations*
+
+-   translate our theories and alternatives into testable (*falsifiable*) propositions, or *hypotheses*
+
+## Methodology in 10 Minutes
+
+3\) We are going to gather evidence to evaluate arguments
+
+-   quantitative evidence (numbers!)
+
+-   qualitative evidence (not numbers)
+
+## Why are we doing it this way?
+
+## Nuts and Bolts of Grad School Tech
+
+-   Data storage/backup: OneDrive, Dropbox, etc...
+
+-   Citation Management Software: Zotero, Mendeley, EndNote, etc...
+
+-   Quantitative Analysis software: R/RStudio
+
+## Why R/RStudio? (as opposed to Excel)
+
+-   It can do the analyses we need
+
+-   It can make pretty graphs
+
+-   It creates a *replicable* workflow
+
+-   It's free!
+
+-   It has become the prevailing standard across the natural and social sciences
+
+## Tech Goals for this Week
+
+-   Get up and running on Data Camp
+
+-   Install R/R Studio
+
+-   Install Textbook/Coursepack
