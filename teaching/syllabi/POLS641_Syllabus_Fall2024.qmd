@@ -148,7 +148,7 @@ Students are expected to read the listed readings before the indicated class ses
 |                                             |                                                                                                                 |
 |                                             | *Th 9/12:*                                                                                                      |
 |                                             |                                                                                                                 |
-|                                             | -   Problem Set #1 Due                                                                                          |
+|                                             | -   Problem Set #1 Due Friday 9/13 @ 5pm                                                                        |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 | **Week 4: Description**                     | *Tue 9/17:*                                                                                                     |
 |                                             |                                                                                                                 |
@@ -176,7 +176,7 @@ Students are expected to read the listed readings before the indicated class ses
 |                                             |                                                                                                                 |
 |                                             | *Th 10/3:*                                                                                                      |
 |                                             |                                                                                                                 |
-|                                             | -   Problem Set #2                                                                                              |
+|                                             | -   Problem Set #2 Due Friday 10/4 @ 5pm                                                                        |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 | **Week 7: Multivariate Regression**         | *Tue 10/8:*                                                                                                     |
 |                                             |                                                                                                                 |
@@ -210,7 +210,7 @@ Students are expected to read the listed readings before the indicated class ses
 |                                             |                                                                                                                 |
 |                                             | *Th 11/8:*                                                                                                      |
 |                                             |                                                                                                                 |
-|                                             | -   Problem Set #3                                                                                              |
+|                                             | -   Problem Set #3 Due Friday 11/9 at 5pm                                                                       |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 | **Week 12: Assumptions and Diagnostics**    | *Tue 11/12:*                                                                                                    |
 |                                             |                                                                                                                 |
