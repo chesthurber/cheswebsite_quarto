@@ -1,6 +1,6 @@
 ---
 title: "Ches Thurber"
-subtitle: "International Relations<br>Peace, Conflict, and Security"
+subtitle: "International Relations<br>Conflict, Security, and Foreign Policy"
 image: "img/Thurber_Profile.jpg"
 about:
   template: trestles
@@ -22,7 +22,7 @@ about:
 
 ::: {#about-block}
 
-Dr. Ches Thurber is an Associate Professor of [Political Science](www.polisci.niu.edu) at [Northern Illinois University](www.niu.edu). His scholarship examines global conflicts ranging from nonviolent resistance movements to war, terrorism, and genocide.
+Dr. Ches Thurber is an Associate Professor of [Political Science](www.polisci.niu.edu) at [Northern Illinois University](www.niu.edu). His scholarship examines international relations with an emphasis on conflict, security, and foreign policy.
 
 He is the the author of [*Between Mao and Gandhi: the Social Roots of Civil Resistance.*](https://www.amazon.com/Between-Cambridge-Studies-Contentious-Politics/dp/110892784X/) His work has been published in *International Studies Quarterly*, the *Journal of Peace Research,*  *Perspectives on Politics,* and other peer-reviewed journals. 
 
