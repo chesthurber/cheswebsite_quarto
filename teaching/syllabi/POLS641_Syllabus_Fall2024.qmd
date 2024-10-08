@@ -148,7 +148,7 @@ Students are expected to read the listed readings before the indicated class ses
 |                                             |                                                                                                                 |
 |                                             | *Th 9/12:*                                                                                                      |
 |                                             |                                                                                                                 |
-|                                             | -   Problem Set #1 Due Friday 9/13 @ 5pm                                                                        |
+|                                             | -   Problem Set #1 Due Friday 9/13 \@ 5pm                                                                       |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 | **Week 4: Description**                     | *Tue 9/17:*                                                                                                     |
 |                                             |                                                                                                                 |
@@ -174,37 +174,39 @@ Students are expected to read the listed readings before the indicated class ses
 |                                             |                                                                                                                 |
 |                                             | -   DSS: Ch. 4                                                                                                  |
 |                                             |                                                                                                                 |
-|                                             | *Th 10/3:*                                                                                                      |
-|                                             |                                                                                                                 |
-|                                             | -   Problem Set #2 Due Friday 10/4 @ 5pm                                                                        |
+|                                             | *Th 10/3*                                                                                                       |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 7: Multivariate Regression**         | *Tue 10/8:*                                                                                                     |
+| **Week 7: More OLS and Causality**          | *Tue 10/8: Model Fit*                                                                                           |
 |                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 4                                                                                                  |
+|                                             | -   Review DSS Ch. 4                                                                                            |
 |                                             |                                                                                                                 |
-|                                             | *Th 10/10:*                                                                                                     |
+|                                             | *Th 10/10: Causality*                                                                                           |
 |                                             |                                                                                                                 |
-|                                             | -   Start Studying for the Exam                                                                                 |
+|                                             | -   Review DSS Ch. 2                                                                                            |
+|                                             |                                                                                                                 |
+|                                             | *Problem Set #2 Due Friday at 5pm*                                                                              |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 8: Midterm Week**                    | *Tue 10/15:* Exam Prep                                                                                          |
+| **Week 8: Multivariate Regression**         | *Tue 10/15:* Multivariate I                                                                                     |
 |                                             |                                                                                                                 |
-|                                             | *Th 10/17:* Exam Day                                                                                            |
+|                                             | -   DSS Ch. 5                                                                                                   |
+|                                             |                                                                                                                 |
+|                                             | *Th 10/17:* Multivariate II                                                                                     |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 9: Probability**                     | *Tue 10/22:*                                                                                                    |
+| **Week 9: Midterm Week**                    | *Tue 10/22:*                                                                                                    |
 |                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 6                                                                                                  |
+|                                             | -   Review for Midterm                                                                                          |
 |                                             |                                                                                                                 |
 |                                             | *Th 10/24:*                                                                                                     |
 |                                             |                                                                                                                 |
-|                                             | -   TBD                                                                                                         |
+|                                             | -   Midterm Exam in class                                                                                       |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 10: Quantifying Uncertainty**        | *Tue 10/29*:                                                                                                    |
+| **Week 10: Probability**                    | *Tue 10/29*:                                                                                                    |
 |                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 7                                                                                                  |
+|                                             | -   DSS: Ch. 6                                                                                                  |
 |                                             |                                                                                                                 |
 |                                             | *Th 10/31*                                                                                                      |
 |                                             |                                                                                                                 |
-|                                             | -   TBD                                                                                                         |
+|                                             | -   Review DSS Ch. 6                                                                                            |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 | **Week 11: Mixed Methods**                  | *Tue 11/6: Election Day - No Class*                                                                             |
 |                                             |                                                                                                                 |
@@ -212,23 +214,23 @@ Students are expected to read the listed readings before the indicated class ses
 |                                             |                                                                                                                 |
 |                                             | -   Problem Set #3 Due Friday 11/9 at 5pm                                                                       |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 12: Assumptions and Diagnostics**    | *Tue 11/12:*                                                                                                    |
+| **Week 12: Quantifying Uncertainty**        | *Tue 11/12:*                                                                                                    |
 |                                             |                                                                                                                 |
-|                                             | -   TBD                                                                                                         |
+|                                             | -   DSS: Ch. 7                                                                                                  |
 |                                             |                                                                                                                 |
 |                                             | *Th 11/14:*                                                                                                     |
 |                                             |                                                                                                                 |
-|                                             | -   TBD                                                                                                         |
+|                                             | -   Review DSS Ch. 7                                                                                            |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 13: Presentation of Results**        | *Tue 11/19:*                                                                                                    |
+| **Week 13: Post-Modeling Analysis**         | *Tue 11/19:*                                                                                                    |
 |                                             |                                                                                                                 |
 |                                             | -   Healy, *Data Visualization*                                                                                 |
 |                                             |                                                                                                                 |
 |                                             | *Th 11/21:*                                                                                                     |
 |                                             |                                                                                                                 |
-|                                             | -   TBD                                                                                                         |
+|                                             | -   Review                                                                                                      |
 +---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 14: Thanksgiving Holiday**           | *Tue 11/26: No Class - Model UN*                                                                                |
+| **Week 14: Thanksgiving Holiday**           | *Tue 11/26: Guest Lecture: Dr. Kuehl and Experiments?*                                                          |
 |                                             |                                                                                                                 |
 |                                             | -   **Problem Set #4 Due**                                                                                      |
 |                                             |                                                                                                                 |
