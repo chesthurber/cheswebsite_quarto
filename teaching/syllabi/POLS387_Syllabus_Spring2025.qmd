@@ -1,7 +1,7 @@
 ---
 title: 'POLS 387 --- International Security' 
 subtitle: 'Spring 2025 | M/W 12:30-1:45pm | DuSable 176'
-date-modified: 'January 8, 2025'
+date-modified: 'January 12, 2025'
 page-layout: full
 toc: true
 ---
@@ -178,7 +178,6 @@ Students are expected to read the listed readings before the indicated class ses
 | **Week 1: Approaches to the Study of Security** | *Mon 1/13: Simulation Activity*                                                                                                                                       |
 |                                                 |                                                                                                                                                                       |
 |                                                 | -   Read the Syllabus                                                                                                                                                 |
-|                                                 | -   [Green, "How to Read Political Science"](https://www.ameliahoovergreen.com/uploads/9/3/0/9/93091546/howtoread.pdf)                                                |
 |                                                 |                                                                                                                                                                       |
 |                                                 | *Wed 1/15: Studying Security*                                                                                                                                         |
 |                                                 |                                                                                                                                                                       |
