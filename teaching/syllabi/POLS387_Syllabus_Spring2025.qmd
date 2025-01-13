@@ -43,8 +43,8 @@ advdate <- function(wk, dy) {
 
 {{< fa university >}}   414 Zulauf Hall\
 {{< fa envelope >}}   <a href="mailto:{{cthurber@niu.edu}}">cthurber\@niu.edu </a>\
-{{< fa calendar >}}   Office Hours: M/W 9:30 - 11:00 am\
-{{< fa calendar-check >}}   [Schedule an appointment](https://calendly.com/chesthurber/officehours)
+{{< fa calendar >}}   Office Hours: M/W 9:30 - 11:30 am\
+{{< fa calendar-check >}}   [Schedule an appointment](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ep=plink)
 :::
 :::
 
