@@ -26,6 +26,8 @@
   number: POLS 387
   logo: logos/POLS387.jpg
   semester:
+  - name: Spring 2025 (in person)
+    url: syllabi/POLS387_Syllabus_Spring2025.qmd
   - name: Fall 2022 (Online)
     url: syllabi/POLS387_Syllabus_Fall2022.pdf
     
