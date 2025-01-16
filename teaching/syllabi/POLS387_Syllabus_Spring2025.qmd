@@ -1,7 +1,7 @@
 ---
 title: 'POLS 387 --- International Security' 
 subtitle: 'Spring 2025 | M/W 12:30-1:45pm | DuSable 176'
-date-modified: 'January 12, 2025'
+date-modified: 'January 15, 2025'
 page-layout: full
 toc: true
 ---
@@ -90,6 +90,8 @@ In the liberal arts tradition, I am interested not just in the topical knowledge
 
 In many of your courses, you may be prohibited from using AI tools, particularly Large Language Models such as ChatGPT. This course is different! While there will be rules and limits on what AI tools you can use and how you can use them, learning how to use AI will be a central part of this course. I hope that you will walk away from this course with basic proficiency in LLMs such at ChatGPT, Claude, Copilot, Perplexity and others, understanding their differences, strengths, and weaknesses.
 
+Again, there will be limits and rules on when and how AI can be used. For example, I ask that you not use AI to help write your weekly discussion board posts.
+
 ## How will the class run?
 
 This will be an in-person class with required attendance. The class will combine lectures, discussions, and simulation activities. Mondays will lean a little more toward lecture, while Wednesdays will start with a discussion or writing activity led by the teaching assistant. In addition to weekly readings, you will take a weekly reading quiz on Blackboard and contribute 3 posts to an online discussion board.
@@ -100,7 +102,7 @@ Attendance and active participation in class discussions is required. It is esse
 
 ## How can you contact me?
 
-Please feel free to email me or the course teaching assistants at any time. We will try to respond within about 24 hours during the week. I will be holding office hours on Mondays and Wednesdays between 9:30 and 11:00am. I strongly encourage you to take advantage of this! Sign up for an appointment at [this link.](https://calendly.com/chesthurber/officehours) You can schedule either an in-person or virtual appointment.
+Please feel free to email me or the course teaching assistants at any time. We will try to respond within about 24 hours during the week. I will be holding office hours on Mondays and Wednesdays between 9:30 and 11:00am. I strongly encourage you to take advantage of this! Sign up for an appointment at [this link](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ep=plink). You can schedule either an in-person or virtual appointment.
 
 ## What Materials Do You Need?
 
@@ -112,15 +114,15 @@ While there are no required texts, the one thing you will have to spend money on
 
 ## What is Packback?!?
 
-We will be using an online suite of AI learning services called "Packback." We will primarily be using Packback in two ways: 1) As a discussion board with weekly posting requirements, and 2) as a mechanism for writing and submitting your papers. We will be using Packback as a tool to help develoo our writing skills, as well as to inprove our understanding of how AI works. With permission from your other instructors, you may be able to use Packback's writing tools for your other courses this semester.
+We will be using an online suite of AI learning services called "Packback." We will primarily be using Packback in two ways: 1) As a discussion board with weekly posting requirements, and 2) as a mechanism for writing and submitting your papers. We will be using Packback as a tool to help develop our writing skills, as well as to improve our understanding of how AI works. With permission from your other instructors, you may be able to use Packback's writing tools for your other courses this semester.
 
 ## Evaluation
 
 *Class attendance, preparation and participation (15%):* The time we spend in class is for me the most important of this course. As such, punctual attendance is mandatory. But more important than just being present at a desk is that you are actively engaged. I expect that you have done the readings and that you try to participate in discussion each and every class section. You may miss up to 2 classes during the course of the semester without penalty. Beyond that, I ask that you write a brief 1-page summary of the readings assigned for the missed day as make-up work to receive attendance credit. The final simulation activity will be included as part of the participation grade and worth 3% of the overall grade.
 
-*Packback Discussion Board Posts (15%):* Each week, by the start of MONDAY'S CLASS, students are expected to contribute three posts to Packback: one question and two responses. The posts must meet minimum criteria (60 points) for length and depth of engagement. Doing so will result in full credit (100%) for that week.
+*Packback Discussion Board Posts (15%):* Each week, by the start of MONDAY'S CLASS, students are expected to contribute three posts to Packback: one question and two responses. The posts must meet minimum criteria (60 points) for length and depth of engagement. Doing so will result in full credit (100%) for that week. The use of AI tools is not permitted for the weekly Packback posts.
 
-*Reading Quizzes (10%):* Each week, by the start of WEDNESDAY'S CLASS, you will have an online reading quiz to complete. It will be a 5-question multiple-choice quiz. You may attempt the quiz twice.
+*Reading Quizzes (10%):* Each week, by the start of WEDNESDAY'S CLASS, you will have an online reading quiz to complete. It will be a 5-question multiple-choice quiz. Quizzes are open book, open-note, open anything. You may attempt the quiz twice. Blackboard will show you which questions you got wrong the first time, but not the correct answer.
 
 *Papers (60%):* There will be three papers of about 1,200 words in length. Each will be written and submitted in Packback "Deep Dives." The third paper will be written in anticipation of the final simulation.
 
@@ -160,7 +162,7 @@ Reaching out is the most important thing you can do if you are falling behind. I
 
 -   **Academic Integrity**: Good academic work must be based on honesty. The attempt of any student to present as his or her own work that which he or she has not produced is regarded by the faculty and administration as a serious offense. Students are considered to have cheated if they copy the work of another during an examination or turn in a paper or an assignment written, in whole or in part, by someone else. Students are guilty of plagiarism, intentional or not, if they copy material from books, magazines, or other sources without identifying and acknowledging those sources or if they paraphrase ideas from such sources without acknowledging them. Students guilty of, or assisting others in, either cheating or plagiarism on an assignment, quiz, or examination may receive a grade of F for the course involved and may be suspended or dismissed from the university.
 
-    This is an issue I take seriously. Unfortuntely, it has increasingly become an issue in my courses. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty will *always* result in an F on the assignment and a formal misconduct report filed with the university. The recommendation I make in that report (e.g. failure from the course, suspension, expulsion from the university) will depend on the circumstance.
+    This is an issue I take seriously. Unfortunately, it has increasingly become an issue in my courses. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty will *always* result in an F on the assignment and a formal misconduct report filed with the university. The recommendation I make in that report (e.g. failure from the course, suspension, expulsion from the university) will depend on the circumstance.
 
 -   **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become an essential tool in the workplace and society. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. The challenge then becomes learning how to use it well and how to develop those critical thinking and writing skills in an AI world.
 
@@ -193,11 +195,9 @@ Students are expected to read the listed readings before the indicated class ses
 |                                                 |                                                                                                                                                                       |
 |                                                 | *Wed 1/22: Levels of Analysis and Paradigms*                                                                                                                          |
 |                                                 |                                                                                                                                                                       |
-|                                                 | -   Snyder, "One World, Rival Theories"                                                                                                                               |
+|                                                 | -   Mingst and McKibben, " IR Theories and Levels of Analysis"                                                                                                        |
 |                                                 |                                                                                                                                                                       |
 |                                                 | -   Drezner, "Night of the Living Wonks"                                                                                                                              |
-|                                                 |                                                                                                                                                                       |
-|                                                 | -   Mingst and McKibben, "Levels of Analysis"                                                                                                                         |
 |                                                 |                                                                                                                                                                       |
 |                                                 | -   Reading Quiz                                                                                                                                                      |
 +-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -288,6 +288,7 @@ Students are expected to read the listed readings before the indicated class ses
 |                                                 |                                                                                                                                                                       |
 |                                                 | -   [Keating, "Why the Long Peace May be Ending"](https://www.vox.com/world-politics/2024/1/25/24049551/war-increasing-ukraine-gaza-sudan-ethiopia)                   |
 |                                                 | -   [Gaub, "Civil Wars: a very short introduction"](https://ciaotest.cc.columbia.edu/pbei/weu/0029419/f_0029419_23869.pdf)                                            |
+|                                                 | -   Packback                                                                                                                                                          |
 |                                                 |                                                                                                                                                                       |
 |                                                 | *Wed 3/19: Counterinsurgency*                                                                                                                                         |
 |                                                 |                                                                                                                                                                       |
@@ -313,8 +314,9 @@ Students are expected to read the listed readings before the indicated class ses
 +-------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Week 11: Ecosystems**                         | *Mon 3/31: Environmental Security*                                                                                                                                    |
 |                                                 |                                                                                                                                                                       |
+|                                                 | -   Busby, "Warming World"                                                                                                                                            |
 |                                                 | -   Climate and Migration Coalition, "Climate Change and Armed Conflict"                                                                                              |
-|                                                 | -   **Paper #2 Due**                                                                                                                                                  |
+|                                                 | -   Packback                                                                                                                                                          |
 |                                                 |                                                                                                                                                                       |
 |                                                 | *Wed 4/2: Health Security*                                                                                                                                            |
 |                                                 |                                                                                                                                                                       |
