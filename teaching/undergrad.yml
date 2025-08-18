@@ -18,7 +18,7 @@
   logo: logos/POLS389.jpg
   semester:
   - name: Fall 2023
-    url: syllabi/POLS389_Syllabus_Fall2023.pdf
+    url: syllabi/POLS389_Syllabus_Fall2025.qmd
   
 - title: International Security
   description: "Survey of the most salient issues in international security, including topics such as nuclear proliferation, intrastate conflicts, conflict management, and interstate rivalry."
