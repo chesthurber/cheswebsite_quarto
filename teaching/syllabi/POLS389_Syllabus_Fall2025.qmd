@@ -2,6 +2,8 @@
 title: 'POLS 389: International Law and Organization' 
 subtitle: 'M/W 11:00 - 12:15 | DuSable 176 | Dr. Ches Thurber'
 date-modified: 'August 20, 2025'
+page-layout: full
+toc: true
 ---
 
 ::: {.callout-important title="Key Course Info" icon="false"}
@@ -17,7 +19,7 @@ date-modified: 'August 20, 2025'
 
 ::: {.grid .course-details .course-details-smaller}
 ::: g-col-4
-![](https://www.chesthurber.com/authors/admin/avatar_hu7eeff7d53732944b2ab7d17ea75b4617_101495_250x250_fill_q90_lanczos_center.jpg){width="2in" style="border-radius:50%"}
+![](https://chesthurber.com/img/Thurber_Profile.jpg){style="border-radius:50%"}
 :::
 
 ::: g-col-6
