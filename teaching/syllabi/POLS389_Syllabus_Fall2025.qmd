@@ -1,7 +1,7 @@
 ---
 title: 'POLS 389: International Law and Organization' 
 subtitle: 'M/W 11:00 - 12:15 | DuSable 176 | Dr. Ches Thurber'
-date-modified: 'August 20, 2025'
+date-modified: 'August 27, 2025'
 page-layout: full
 toc: true
 ---
@@ -32,6 +32,33 @@ toc: true
 :::
 :::
 
+### Teaching Assistants
+
+::: {.grid .course-details .course-details-smaller}
+::: g-col-4
+![](Ali.png){width="2in" style="border-radius:50%"}
+:::
+
+::: g-col-6
+**Ali Ahmad**
+
+{{< fa user >}}   Ph.D. Candidate\
+{{< fa envelope >}}   <a href="mailto:{{aahmad5@niu.edu}}">aahmad5\@niu.edu </a>
+:::
+:::
+
+::: {.grid .course-details .course-details-smaller}
+::: g-col-4
+![](Ezeora.jpg){width="2.0in" style="border-radius:50%"}
+:::
+
+::: g-col-6
+**Ijeoma Ezeora**
+
+{{< fa user >}} Ph.D. Candidate\
+{{< fa envelope >}} <a href="mailto:{{iezeora@niu.edu}}">iezeora\@niu.edu </a>
+:::
+:::
 ## What is this course about?
 
 Is international law a joke? If there are no police, no jail, and no consistent means of enforcement, is it really law at all? And what about international institutions? Do they really have an impact on the world, or are they just, as one American politician put it, "debating societies"? These questions will be a the heart of this course. In the big picture, we will evaluate how effective the effort to build a system of international laws and organizations has been in promoting global cooperation. In the process, we will examine the main principles of international law as well as some of the most prominent international institutions. Issues of war, peace, and human rights will receive special attention in the second half of the course. The class includes a series of simulations of the International Court of Justice and the UN Security Council.
@@ -115,6 +142,10 @@ The required textbooks for the course are:
 -   Book Discussion Board Posts
 -   UNSC Simulation
 :::
+
+## Honors Section
+
+Students in the University Honors Program have the option to take this course for honors credit by enrolling in the honors mini-section POLS 389H. Students enrolled in the honors mini-section are required to meet all requirements for the full class as stated in this syllabus and the evaluation breakdown will be identical. However, Honors-enrolled students will be asked to complete more extended and involved assignments related to the two simulation activities. Additional meeting times will be arranged to provide extra instruction and preparation for those assignments.
 
 ## Model UN Option
 
