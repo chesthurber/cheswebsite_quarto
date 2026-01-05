@@ -1,5 +1,6 @@
 
-
+bibliography: bib/MasterLibrary.bib
+csl: bib/chicago-manual-of-style-17th-edition-syllabus.csl 
 # website settings
 website:
   title: "Ches Thurber"                                # Your name
@@ -29,7 +30,7 @@ website:
     
     # your social media handles
  
-  
+
   
 
 # Don't touch unless you know what you are doing :) ------------

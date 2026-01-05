@@ -17,7 +17,7 @@ toc: true
 
 ### Instructor
 
-::: {.grid .course-details .course-details-smaller}
+::::: {.grid .course-details .course-details-smaller}
 ::: g-col-4
 ![](https://chesthurber.com/img/Thurber_Profile.jpg){style="border-radius:50%"}
 :::
@@ -30,11 +30,11 @@ toc: true
 {{< fa calendar >}}   Office Hours: M/W 9:00 - 10:30 am\
 {{< fa calendar-check >}}   [Schedule an appointment](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 :::
-:::
+:::::
 
 ### Teaching Assistants
 
-::: {.grid .course-details .course-details-smaller}
+::::: {.grid .course-details .course-details-smaller}
 ::: g-col-4
 ![](Ali.png){width="2in" style="border-radius:50%"}
 :::
@@ -45,9 +45,9 @@ toc: true
 {{< fa user >}}   Ph.D. Candidate\
 {{< fa envelope >}}   <a href="mailto:{{aahmad5@niu.edu}}">aahmad5\@niu.edu </a>
 :::
-:::
+:::::
 
-::: {.grid .course-details .course-details-smaller}
+::::: {.grid .course-details .course-details-smaller}
 ::: g-col-4
 ![](Ezeora.jpg){width="2.0in" style="border-radius:50%"}
 :::
@@ -58,7 +58,7 @@ toc: true
 {{< fa user >}} Ph.D. Candidate\
 {{< fa envelope >}} <a href="mailto:{{iezeora@niu.edu}}">iezeora\@niu.edu </a>
 :::
-:::
+:::::
 
 ## What is this course about?
 

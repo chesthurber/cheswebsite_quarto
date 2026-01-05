@@ -1,0 +1,426 @@
+---
+title: 'POLS 681 --- International Security' 
+subtitle: 'Spring 2026 | Fri 9:30am-12:10pm | DuSable 464'
+date-modified: 'January 4, 2026'
+page-layout: full
+toc: true
+---
+
+```{r setup, include=FALSE}
+mon <- as.Date("2026-01-17")
+
+
+advdate <- function(obj, adv) {
+ tmon <- obj + 7*(adv-1)
+ ttue <- obj + 1+ 7*(adv-1)
+ twed <- obj + 2 + 7*(adv-1)
+ tfri <- obj + 4 + 7*(adv-1)
+ tmon <- format(tmon, format="%b. %d")
+ ttue <- format(ttue, format="%b. %d")
+ twed <- format(twed, format="%b. %d")
+ tfri <- format(tfri, format="%b. %d")
+ zadv <- sprintf("%d", adv)
+ tmp <- paste("Week ",zadv,sep=''," (",tfri,")")
+ return(tmp)
+}
+
+
+```
+
+::: {.callout-important title="Key Course Info" icon="false"}
+-   **TOPIC:**   This is a graduate seminar course in the international relations subfield of international security.
+-   **MODALITY:**   This is an in-person course. We meet **Fridays from 9:30-12:10 in DuSable 464.**
+-   **ASSESSMENTS:**   There will be weekly reading analysis memos, a major seminar paper, and a peer review memo assignment. 
+-   **PREREQUISITES:**   None (though POLS 680 or undergraduate coursework in international relations is helpful).
+-   **MATERIALS:**   One textbook is required: Reiter's *Understanding War and Peace*.
+:::
+
+### Instructor
+
+::: {.grid .course-details .course-details-smaller}
+::: g-col-4
+![](https://chesthurber.com/img/Thurber_Profile.jpg){width="2in" style="border-radius:50%"}
+:::
+
+::: g-col-6
+**Dr. Ches Thurber**
+
+{{< fa university >}}   414 Zulauf Hall\
+{{< fa envelope >}}   <a href="mailto:{{cthurber@niu.edu}}">cthurber\@niu.edu </a>\
+{{< fa calendar >}}   Office Hours: Tu/Th 9:30 - 11:00 am\
+{{< fa calendar-check >}}   [Schedule an appointment](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ismsaljsauthenabled&ep=plink)
+:::
+:::
+
+## What is this course about?
+
+This course is a graduate-level survey of social scientific research on peace, conflict, and security. It is intentionally broad, attempting to encompass several different "subfields within the subfield." These sometimes go by different names such as international security, security studies, conflict processes, and peace science.  More specifically, this seminar will include the examination of both interstate and civil conflicts as well as bridge quantitative and qualitative methodological approaches. We will examine the various conceptualizations and definitions of conflict, theories about the causes of violence at both the sub-state and interstate levels, and variation in the forms that conflict can take. This is one of the four core courses for preparation for the Ph.D. candidacy exam in international relations. This syllabus (including the recommended readings) constitutes the reading list for the international security portion of the exam. The course also serves students who are approaching the study of global security from a policy perspective. We will focus on the relationship between scholarship and policy, what research tells us about what kinds of policies "work," and what areas are in need of further research to meet pressing real-world challenges.
+# Mode of Delivery
+
+We will meet Fridays between 9:30am and 12:10pm in DuSable 228. (At least for now. That room may change depending on its suitability.)
+
+# Texts
+
+Students are required to obtain a copy of the following text:
+
+ - Dan Reiter, ed. *Understanding War and Peace, 2nd Edition.* Cambridge University Press, 2023.
+
+All other readings are available through a class Zotero shared collection. Alternatively, students may locate materials on their own through the NIU libraries.
+
+# Evaluation
+
+- *Class attendance, preparation and participation (20%):*
+The time we spend in class is for me the most important of this course. As such, punctual attendance is mandatory. But more important than just being present is that you are actively engaged. I expect that you have done the readings and that you try to participate in discussion each and every class section.
+
+- *Reading Analyses (20%):*
+For each week, you will be required to draft written summaries on each of the readings. Templates will be provided. For those students planning on taking a candidacy exam in IR, these written summaries will prove invaluable. 
+
+- *Final Project (40%):*
+You will produce a "half" research paper, in the range of 4k-6k words. By this I mean that you will either focus on a puzzle, theory, and research design (without actually conducting the empirical work), or you will provide only a brief theoretical motivation before presenting an in-depth case study or analysis of quantitative data. 
+
+You may also choose to complete a "full" paper in conjunction with another course like POLS 603 or 642. I encourage this option, but you must seek permission from both me and the instructor of the other course.
+
+You will produce two drafts of the paper, the first of which will be reviewed by me and another student. You will then have the opportunity to produce a revised version of the paper. Each version is worth 20 percent of your grade.
+
+
+- *Peer Review Essay (20%):*
+
+You will read another student's initial research paper draft and write a 1,000 word review memo as if you had been asked to read the paper as a submission to a professional political science journal. Your memo will be sent to the author, but the identities of both author and reviewer will be kept anonymous. Of course, in a small class, it is entirely possible that you may be able to figure out the identities of either the author or reviewer. This is often true in professional practice as well. But I expect that you not engage in deliberate efforts to ascertain or disclose identities, as is the professional norm.
+
+
+## Grading Standards
+
+As a graduate student, you are at the point in your professional development where it is your written work itself that matters (and how that work is received by a broader scholarly community) more than the grade arbitrarily assigned by a single cantankerous professor. Nevertheless, grades can serve as a helpful signaling device for your own self-assessment, for departmental funding decisions, and to admissions committees at PhD programs (for MA students planning to continue on...). The scheme below is taken from Prof. Kyle Beardsley in the political science department at Duke University with some modifications to adapt to our departmental norms and my own personal views. It may also be helpful to think about the grading distributionally. In the past, I have generally awarded between 1 and 3 straight As per graduate seminar. The modal grade has been an A-, with a few Bs and B+s.
+
+-   **A** : *Exceptional Performance.* Outstanding work on all course-related tasks at a level that distinguishes the student from other members of the class. A comprehensive and incisive command of the issues, literature, and substantive information relevant to the course. The ability to master and integrate large amounts of factual material and abstract theories.
+
+-   **A-** : *Very Good Performance.* Consistently strong work on all course-related tasks. A command of the issues, literature, and substantive information relevant to the course. Understands well and can integrate the relevant factual and theoretical material central to the course.
+
+-   **B+** : *Good Performance.* Solid work on all course-related tasks. A good grasp of the issues, literature, and substantive information relevant to the course. A very good command of factual and theoretical material, and some capacity to integrate the two.
+
+-   **B** : *Decent Performance.* Generally consistent work on most course-related tasks. A general understanding of the issues, literature, and substantive information relevant to the course. An acceptable understanding of factual and theoretical material, but limited evidence of the capacity to integrate the two.
+
+-   **B-** : *Barely Satisfactory Performance.* Mostly satisfactory work on course-related tasks, but with notable deficiencies. A general understanding of the issues, literature, and substantive information relevant to the course. Understands at a basic level the facts and theories related to the course, but with clear gaps, errors, or incomplete work. Grades lower than this represent unsatisfactory work.
+
+
+## Course Policies
+
+-   **Committed to your success:** Beyond all else, I am committed to the success of every student in this class. I encourage *everyone* in the class to reach out to me if there is anything I can do in terms of the delivery of the course that would help you be more successful. I might not always be able to make it happen, but I will never discourage you from asking.
+
+-   **Names and Pronouns**: It is my personal policy to allow graduate students to call me by my first name, "Ches." This reflects the idea that I view you all as colleagues-in-training. I usually use the he/him/his pronouns to refer to myself, but am equally comfortable being referred to with they/them/their. Please let me know how you prefer to be addressed, both in name and pronoun, if it differs from what is in the college directory. I will make every effort to address you in the way you wish to be addressed. Please try and do the same for your fellow classmates, as well as for other faculty in the department.
+
+-   **Americans with Disabilities Act and Non-Discrimination Statement:** If you need an accommodation for this class, please contact the Disability Resource Center as soon as possible. The DRC coordinates accommodations for students with disabilities. It is located on the 4th floor of the Health Services Building, and can be reached at 815-753-1303 or drc\@niu.edu. Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.
+
+-   **Mental Health and Well-being**: Graduate students experience a range of academic, social, and personal stresses that at times can be overwhelming. You are not alone. Well-being at NIU offers resources, programs, and services. If you or someone you know need assistance with comprehensive or crisis mental health support, Counseling and Consultation Services (CCS) at 815-753-1206 is ready to help 24 hours a day, 7 days a week. Additionally, the National Suicide Prevention Lifeline can be reached at 988.
+
+-   **Academic Integrity**: Good academic work must be based on honesty. The attempt of any student to present as his or her own work that which he or she has not produced is regarded by the faculty and administration as a serious offense. Students are considered to have cheated if they copy the work of another during an examination or turn in a paper or an assignment written, in whole or in part, by someone else.  Students are guilty of plagiarism, intentional or not, if they copy material from books, magazines, or other sources without identifying and acknowledging those sources or if they paraphrase ideas from such sources without acknowledging them. Using Artificial Intelligence tools in a manner not permitted by the instructions for an assignment is also considered an act of academic dishonesty. Students guilty of, or assisting others in, either cheating or plagiarism on an assignment, quiz, or examination may receive a grade of F for the course involved and may be suspended or dismissed from the university.
+
+    This is an issue I take seriously. Unfortuntely, it has increasingly become an issue in the graduate political science program. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty will *always* result in an F on the assignment and notification to the department chair and director of graduate studies.
+
+-   **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become a valuable tool for academic researchers as well as policy practitioners. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. The challenge, however, is that reliance on AI tools can short-circuit the learning process, preventing you from developing the skills and knowledge you need to be successful. As such, I will provide specific instructions for each assignment regarding the permissible and prohibited uses of AI tools.
+
+In general, the following principles will apply:
+
+1) The use of direct or paraphrased text from an AI source is explicitly prohibited in all cases. In cases where AI detectors identify a high probability of AI-generated content, the student will be invited to an oral examination of the content.
+
+2) Students may use AI tools to make grammatical/stylistic suggestions for text originally written by the student.
+
+3) Students may use AI tools to identify sources and arguments within the literature. In such cases, students must *ALWAYS* identify, read, and cite the original source.
+
+4) Students will be held responsible for any incorrect information or hallucinated sources that come from AI tools.
+
+# Class Schedule
+
+Students are expected to read the following before Friday's class session. This syllabus, including the recommended readings and book list, constitutes the reading list for the subtopic of International Security for the PhD Candidacy exam in IR. An asterisk next to a journal article indicates that the author has expanded the idea into a book, included in the book list at the end of the syllabus. PhD students preparing for the candidacy exam should be familiar with the book as well (and others may wish to take a look at the book as well of course!).
+
+## `r advdate(mon, 1)`: Theory, Method, and Purpose in the Study of Security
+
+- "Introduction" by Dan Reiter in *UWP*
+- @Frieden2019
+- @Jentleson2002
+- @Thomas2003
+- @Hoagland2020
+
+
+*Recommended Readings*
+
+- @Waltz2001
+- @Galtung1969
+- @Singer1972
+- @Rothschild1995
+- @Fazal2016
+
+
+## `r advdate(mon, 2)`: Systemic Explanations
+
+- @Waltz1988 *
+- @Mearsheimer2021 *
+- @Jervis1978
+- @Kalyvas2010
+- Reiter, "International Alliances" in *UWP*
+
+
+*Recommended Readings*
+
+- @Walt1985 
+- @Powell1996
+- @Leeds2003
+- @Monteiro2011
+
+
+
+##  `r advdate(mon, 3)`: The Bargaining Model
+
+- Reiter, "Bargaining and War" in *UWP*
+- @Fearon1995
+- @Walter1997 *
+- @Walt1999
+
+*Recommended Readings*
+
+- @Frieden2019a
+- @BuenodeMesquita1980
+- @Werner1999
+- @Kydd2000
+- @Powell2006
+
+#  `r advdate(mon, 4)`: Economics and War
+
+- Poast, "Economics and War" in *UWP*
+- @Keohane1977, Ch. 1 *
+- @Farrell2019
+- @Drezner2024
+
+
+*Recommended Readings*
+
+- @Hufbauer2007
+- @Maoz2009
+- @Poast2019
+- @Ross2015
+
+
+##  `r advdate(mon, 5)`: Non-Material Structures: Gender and Race
+
+- Hudson and Reiter, "Sex, Gender, and Violence" in *UWP*
+- @Enloe2014, Ch. 1 *
+- @Henderson2017
+- @Maass2023
+
+
+*Recommended Readings*
+
+
+- @Hudson2009
+- @Sjoberg2009
+- @Vitalis2015 *
+- @Getachew2023
+- @Snyder2023
+
+
+
+##  `r advdate(mon, 6)`: Domestic Politics and Conflict
+
+- Weeks, "Domestic Political Institutions and War" in *UWP*
+- @Hayes2012
+- @Henderson2009
+- @Weeks2012 *
+- @Fjelde2010
+
+
+*Recommended Readings*
+
+- @Maoz1993 
+- @Fearon1994
+- @Gowa1995
+- @Mansfield1995
+- @Reiter1998
+- @BuenodeMesquita1999
+- @Rosato2003
+- @Gartzke2007
+- @BuenodeMesquita2012
+- @Imai2021
+
+
+
+
+
+
+#  `r advdate(mon, 7)`: Psychology and Leadership
+
+- Horowitz, "Leaders, Institutions, and Foreign Policy" in *UWP*
+- @Saunders2009 *
+- @Hafner-Burton2017a
+- @Pearlman2013
+
+
+*Recommended Readings*
+
+- @Horowitz2005
+- @Costalli2015
+- @Prorok2016
+- @Kertzer2018
+
+
+
+#  `r advdate(mon, 8)`: Organizing Armies
+
+- @Brooks2019
+- @Talmadge2016
+- @Lyall2020
+- @Parkinson2018
+
+*Recommended Reading*
+
+- @Weinstein2007
+- @Staniland2012a *
+- @Parkinson2013
+- @DeBruin2018
+
+
+
+##  `r advdate(mon, 9)`: Spring Break
+
+##  `r advdate(mon, 10)`: Nuclear Weapons
+
+**PAPER FIRST DRAFT DUE**
+*No Reading Memos*
+
+- Horowitz, "Nuclear Weapons" in *UWP*
+
+
+*Recommended Readings*
+
+- @Waltz1981
+- @Sagan1994
+- @Sagan1996
+- @Tannenwald1999 *
+- @Miller2014
+- @Mehta2017
+
+##  `r advdate(mon, 11)`: Civil Wars
+
+- Cunningham, "Civil Wars" in *UWP*
+- @Fearon2003
+- @Cederman2017
+- @Gleditsch2007
+
+*Recommended Reading*
+
+- @Walt1992
+- @Gleditsch2008
+- @Cederman2011 *
+- @Denny2014
+
+
+
+##  `r advdate(mon, 12)`: Environmental Conflict
+
+
+- Hendrix, "Environmental Conflicts" in *UWP*
+
+**PEER REVIEW DUE**
+*No Reading Memos*
+
+
+##  `r advdate(mon, 13)`: Harming Civilians: Terrorism 
+
+- Potter, "Terrorism" in *UWP*
+- @Pape2003 *
+- @Abrahms2006
+- @Fortna2015
+
+
+*Recommended Readings*
+
+- @Crenshaw1981
+- @Kydd2006
+- @Cronin2006
+- @Chenoweth2010
+- @Stanton2013
+
+## `r advdate(mon, 14)`: Harming Civilians: Genocide, Repression, and Sexual Violence
+- @Valentino2000
+- @Davenport2007
+- @Cohen2013 *
+- @Ritter2016
+
+*Recommended Readings*
+
+- @Harff1988
+- @Wood2006
+- @Humphreys2006
+- @Lyall2009c
+
+
+## `r advdate(mon, 15)`: Intervention, Resolution, and Aftermath
+
+- Beardsley, "Third-Party Peacemaking and Peacekeeping" in *UWP*
+- @Lischer2003
+- @Walter2021
+- @Wallensteen2014
+
+*Recommended Readings*
+
+- @Walter1999 *
+- @Fortna2004 *
+- @Toft2010 *
+- @Hultman2013
+- @Hegre2019
+
+
+
+#  `r advdate(mon, 16)`: The Future of Peace
+
+- @Jervis2002
+- @Gleditsch2013 *
+- @Chenoweth2011
+
+
+*Recommended Readings*
+
+- @Mueller2009
+- @Fazal2014
+- @Kuran1991
+- @Thurber2019
+- @Chenoweth2020a
+
+**FINAL PAPERS DUE FRIDAY 5/8 at 5PM**
+
+# Supplemental Book List for IR Candidacy Exams
+The following is a list of books that doctoral students preparing for candidacy exams should be familiar with. They are linked in some way to a journal article already on the syllabus, which should provide a solid overview of the author's theoretical argument. However, students should be familiar with the book, including expansions of the theory and empirics, and be prepared to make references to the books where appropriate in an exam answer. Students should also be familiar with the complete books listed elsewhere on the syllabus, even when only specific chapters are assigned.
+
+
+@Cederman2013
+
+@Cohen2016
+
+@Enloe2014
+
+@Fortna2008
+
+@Keohane1977
+
+@Mearsheimer2001
+
+@Pape2005
+
+@Pinker2011
+
+@Saunders2014
+
+@Staniland2014
+
+@Tannenwald2008
+
+@Toft2010a
+
+@Vitalis2015
+
+@Walter2002
+
+@Waltz1979
+
+@Weeks2014
+
+

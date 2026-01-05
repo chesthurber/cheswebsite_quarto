@@ -1,0 +1,244 @@
+---
+title: 'POLS 641 --- Introductory Analysis of Political Data' 
+subtitle: 'Fall 2024 | Tu/Th 2:00-3:15pm | DuSable 228'
+date-modified: 'August 25, 2024'
+page-layout: full
+toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, dev='pdf')
+first.class <- as.Date("2024-08-24")
+# fri <- as.Date("2016-01-08")
+
+advdate <- function(wk, dy) {
+ cdate <- first.class + 7*(wk-1) + 4*(dy-1)
+ cdate <- format(cdate, format="%m/%d")
+ cday <- ifelse(dy==1, "Monday", "Friday")
+ tmp <- paste(cday, cdate)
+ return(tmp)
+}
+
+
+```
+
+::: {.callout-important title="Key Course Info" icon="false"}
+-   **TOPIC:**   This is an introduction to quantitative methods as used in political science research.
+-   **MODALITY:**   This is an in-person course. We meet **Tuesdays and Thursdays from 2-3:15 in DuSable 228.**
+-   **ASSESSMENTS:**   Major assessments consist of problem sets, a midterm exam, and a final project.
+-   **PREREQUISITES:**   This course assumes no prior coursework onr knowledge of statistice. It is open to all graduate students in the political science department and others upon permission of the instructor.
+-   **MATERIALS:**   One textbook is required: Llaudet and Imai's Introduction to Data Analysis.
+:::
+
+### Instructor
+
+::: {.grid .course-details .course-details-smaller}
+::: g-col-4
+![](https://chesthurber.com/img/Thurber_Profile.jpg){width="2in" style="border-radius:50%"}
+:::
+
+::: g-col-6
+**Dr. Ches Thurber**
+
+{{< fa university >}}   414 Zulauf Hall\
+{{< fa envelope >}}   <a href="mailto:{{cthurber@niu.edu}}">cthurber\@niu.edu </a>\
+{{< fa calendar >}}   Office Hours: M/T 9:30 - 11:00 am\
+{{< fa calendar-check >}}   [Schedule an appointment](https://calendly.com/chesthurber/officehours)
+:::
+:::
+
+## What is this course about?
+
+This is the first course in the NIU Political Science Department's quantitative methods sequence. It is required of all graduate students and is intended as an introduction to the methodological tools used by social scientists in analyzing numeric data. The primary goal of the course is to increase students' comfort in engaging with and thinking about quantitative analysis. It will emphasize the linkages between concept and measurement, the fundamentals of distributions, randomness and uncertainty, and the challenges of statistical inference. The emphasis is on fundamental concepts and programming proficiency, with relatively little formal mathematics. Students should leave the course with the ability to engage with quantitative empirical research, even if they do not fully understand the methods being employed, and with the basic statistical and computer programming tools to pursue more advanced study.
+
+## Mode of Delivery
+
+This course will be conducted in person, twice a week. Students are expected to bring a laptop to class capable of running statistical software. Generally, we will focus on substantive topics on Tuesdays and programming on Thursdays.
+
+## Office Hours
+
+I will be holding office hours on Mondays and Tuesdays between 9:30 and 11:00. Office hours appointments are available either in-person in my office or online. I strongly encourage you to take advantage of this; since we don't have class in person, this is the best chance I have to get to know you! Sign up for an appointment at [this link.](https://calendly.com/chesthurber/officehours) The system will send you a Zoom link that we can use for our meeting. Or you can just show up at my office at that time.
+
+## Texts
+
+The required textbook for the course is:
+
+-   Elene Llaudet and Kosuke Imai. *Data Analysis for Social Science: a Friendly and Practical Introduction.* Princeton University Press, 2023.
+
+I also strongly recommend the following new book on data visualization using R and GGPlot. You can buy a hard copy online, or use a free online version available [here.](http://socviz.co)
+
+-   Kieran Healy. *Data Visualization: A Practical Introduction.* Princeton University Press, 2018.
+
+Finally, the short book by Stephen Van Evera below was a valuable tool to me as a graduate student, and may be to you as well.
+
+-   Stephen Van Evera, *Guide to Methods for Students of Political Science.* Cornell University Press, 1997.
+
+Additional texts will be available on the Blackboard site. This includes both some additional readings on the syllabus, as well as supplementary texts. Statistics can be hard and confusing and sometimes seeing the same thing presented in different ways can be helpful.
+
+## Computer Programming in R
+
+As part of this course, you will learn to use the statistical programming language R. Why R? Because it's free. And also because it's the one your instructor uses in his own research (Why? See reason 1...) We will talk about some of the other statistical programming languages in class and their relative advantages and weaknesses. Whatever software is being used however, learning to program, especially for the first time, can be difficult. In fact, even for advanced users, dealing with coding errors is time-consuming, mentally exhausting, and often extremely frustrating. We will therefore proceed at a slow pace, walk through everything in class, and I will encourage you to work in groups on homework problems. I only ask that your final submitted work be your own.
+
+## Evaluation
+
+*Class attendance, preparation and participation (20%):* The time we spend in class is for me the most important part of this course. As such, punctual attendance is mandatory. But more important than just being present at a desk is that you are actively engaged. I expect that you have done the readings and that you try to participate in discussion each and every class section. I also expect that you follow along with programming demonstrations and work with your classmates to complete in-class exercises.
+
+*Problem Sets and Data Camp(30%):* You will have a number of problem sets to complete over the course of the semester. I encourage you to work in groups to complete the problem sets. However, I ask that the final work submitted be your own. This can be a little ambiguous, but to me means that 1) group work is conducted in a good-faith collaborative effort in which all participants are actively seeking to contribute; and 2) written work, including code, is produced by the individual student, not copied and pasted from other students' work. I will also assign some lessons through the website Data Camp. I will check for completion and these will be worth less than the problem sets.
+
+*Midterm Exam (20%):* There will be an in-class, closed-book midterm exam. Questions will be a mix of multiple choice, matching, and short answer.
+
+*Final Project (30%):* You will produce a final project in written and presentational form. This project will involve an independent quantitative analysis of some type in which you develop a hypothesis or more, present relevant data and provide visualizations and basic descriptive measures, and evaluate your hypothesis with appropriate statistical tests including (but not limited to) linear regression. You will write-up a 10-page (or so) mini-paper and deliver a 10-minute conference-style presentation on the final day of class.
+
+## Grading Standards
+
+As a graduate student, you are at the point in your professional development where it is your written work itself that matters (and how that work is received by a broader scholarly community) more than the grade arbitrarily assigned by a single cantankerous professor. Nevertheless, grades can serve as a helpful signaling device for your own self-assessment, for departmental funding decisions, and to admissions committees at PhD programs (for MA students planning to continue on...). The scheme below is taken from Prof. Kyle Beardsley in the political science department at Duke University with some modifications to adapt to our departmental norms and my own personal views. It may also be helpful to think about the grading distributionally. In the past, I have generally awarded between 1 and 3 straight As per graduate seminar. The modal grade has been an A-, with a few Bs and B+s.
+
+-   **A** : *Exceptional Performance.* Outstanding work on all course-related tasks at a level that distinguishes the student from other members of the class. A comprehensive and incisive command of the issues, literature, and substantive information relevant to the course.The ability to master and integrate large amounts of factual material and abstract theories.
+
+-   **A-** : *Very Good Performance.* Consistently strong work on all course-related tasks. A command of the issues, literature, and substantive information relevant to the course. Understands well and can integrate the relevant factual and theoretical material central to the course.
+
+-   **B+** : *Good Performance.* Solid work on all course-related tasks. A good grasp of the issues, literature, and substantive information relevant to the course. A very good command of factual and theoretical material, and some capacity to integrate the two.
+
+-   **B** : *Decent Performance.* Generally consistent work on most course-related tasks. A general understanding of the issues, literature, and substantive information relevant to the course. An acceptable understanding of factual and theoretical material, but limited evidence of the capacity to integrate the two.
+
+-   **B-** : *Barely Satisfactory Performance.* Mostly satisfactory work on course-related tasks, but with notable deficiencies. A general understanding of the issues, literature, and substantive information relevant to the course. Understands at a basic level the facts and theories related to the course, but with clear gaps, errors, or incomplete work. Grades lower than this represent unsatisfactory work.
+
+## Course Policies
+
+-   **Committed to your success:** Beyond all else, I am committed to the success of every student in this class. I encourage *everyone* in the class to reach out to me if there is anything I can do in terms of the delivery of the course that would help you be more successful. I might not always be able to make it happen, but I will never discourage you from asking.
+
+-   **Names and Pronouns**: It is my personal policy to allow graduate students to call me by my first name, "Ches." This reflects the idea that I view you all as colleagues-in-training. I usually use the he/him/his pronouns to refer to myself, but am equally comfortable being referred to with they/them/their. Please let me know how you prefer to be addressed, both in name and pronoun, if it differs from what is in the college directory. I will make every effort to address you in the way you wish to be addressed. Please try and do the same for your fellow classmates, as well as for other faculty in the department.
+
+-   **Americans with Disabilities Act and Non-Discrimination Statement:** If you need an accommodation for this class, please contact the Disability Resource Center as soon as possible. The DRC coordinates accommodations for students with disabilities. It is located on the 4th floor of the Health Services Building, and can be reached at 815-753-1303 or drc\@niu.edu. Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.
+
+-   **Mental Health and Well-being**: I understand that college students may experience a range of academic, social, and personal stressors, which can be overwhelming. You are not alone. Well-being at NIU offers resources, programs, and services. If you or someone you know need assistance with comprehensive or crisis mental health support, Counseling and Consultation Services (CCS) at 815-753-1206 is ready to help 24 hours a day, 7 days a week. Additionally, the National Suicide Prevention Lifeline can be reached at 988.
+
+-   **Academic Integrity**: Good academic work must be based on honesty. The attempt of any student to present as his or her own work that which he or she has not produced is regarded by the faculty and administration as a serious offense. Students are considered to have cheated if they copy the work of another during an examination or turn in a paper or an assignment written, in whole or in part, by someone else. Students are guilty of plagiarism, intentional or not, if they copy material from books, magazines, or other sources without identifying and acknowledging those sources or if they paraphrase ideas from such sources without acknowledging them. Students guilty of, or assisting others in, either cheating or plagiarism on an assignment, quiz, or examination may receive a grade of F for the course involved and may be suspended or dismissed from the university.
+
+    This is an issue I take seriously. Unfortuntely, it has increasingly become an issue in the graduate political science program. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty in the forms of cheating on the midterm exam or plagiarism in th final project will *always* result in an F on the assignment and a formal misconduct report filed with the university. The recommendation I make in that report (e.g. failure from the course, suspension, expulsion from the university) will depend on the circumstance.
+
+-   **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become an essential tool in the workplace and society. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. This is especially true in the field of data science. The challenge then becomes learning how to use it well and how to develop those critical thinking and writing skills in an AI world. To this end, I will provide explicit instructions for each assignment as to whether and how AI may be used. Violation of these rules will be considered academic dishonesty.
+
+# Class Schedule
+
+Students are expected to read the listed readings before the indicated class session.
+
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Topic                                       | Assignments                                                                                                     |
++=============================================+:================================================================================================================+
+| **Week 1: Getting Set Up**                  | *No class this week!*                                                                                           |
+|                                             |                                                                                                                 |
+|                                             | -   DSS: Ch. 1                                                                                                  |
+|                                             | -   Install R and R Studio                                                                                      |
+|                                             | -   Download the [course files](https://press.princeton.edu/student-resources/data-analysis-for-social-science) |
+|                                             | -   Run all of the example code in DSS Ch. 1                                                                    |
+|                                             | -   If you can, download and complete DSS Ch. 1 Tutorial                                                        |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 2: Concepts and Measures**           | *Tue 9/3:*                                                                                                      |
+|                                             |                                                                                                                 |
+|                                             | -   Gerring, Chs. 1-4                                                                                           |
+|                                             |                                                                                                                 |
+|                                             | *Th 9/5:*                                                                                                       |
+|                                             |                                                                                                                 |
+|                                             | -   Data Camp: "Intro to R"                                                                                     |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 3: Causation**                       | *Tue 9/10:*                                                                                                     |
+|                                             |                                                                                                                 |
+|                                             | -   DSS: Ch. 2                                                                                                  |
+|                                             |                                                                                                                 |
+|                                             | *Th 9/12:*                                                                                                      |
+|                                             |                                                                                                                 |
+|                                             | -   Problem Set #1 Due Friday 9/13 \@ 5pm                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 4: Description**                     | *Tue 9/17:*                                                                                                     |
+|                                             |                                                                                                                 |
+|                                             | -   DSS: Ch. 3                                                                                                  |
+|                                             |                                                                                                                 |
+|                                             | *Thur 9/19:*                                                                                                    |
+|                                             |                                                                                                                 |
+|                                             | -   Data Camp: Grouping and Summing                                                                             |
+|                                             |                                                                                                                 |
+|                                             | -   Data Camp: Types of Data                                                                                    |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 5: Data Visualization**              | *Tue 9/24:*                                                                                                     |
+|                                             |                                                                                                                 |
+|                                             | -   Healy, *Data Visualization for the Social Sciences*                                                         |
+|                                             |                                                                                                                 |
+|                                             | *Th 9/26*                                                                                                       |
+|                                             |                                                                                                                 |
+|                                             | -   Data Camp: Data Wrangling                                                                                   |
+|                                             |                                                                                                                 |
+|                                             | -   Data Camp: Data Visualization                                                                               |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 6: Prediction/Bivariate Regression** | *Tue 10/1*                                                                                                      |
+|                                             |                                                                                                                 |
+|                                             | -   DSS: Ch. 4                                                                                                  |
+|                                             |                                                                                                                 |
+|                                             | *Th 10/3*                                                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 7: More OLS and Causality**          | *Tue 10/8: Model Fit*                                                                                           |
+|                                             |                                                                                                                 |
+|                                             | -   Review DSS Ch. 4                                                                                            |
+|                                             |                                                                                                                 |
+|                                             | *Th 10/10: Causality*                                                                                           |
+|                                             |                                                                                                                 |
+|                                             | -   Review DSS Ch. 2                                                                                            |
+|                                             |                                                                                                                 |
+|                                             | *Problem Set #2 Due Friday at 5pm*                                                                              |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 8: Multivariate Regression**         | *Tue 10/15:* Multivariate I                                                                                     |
+|                                             |                                                                                                                 |
+|                                             | -   DSS Ch. 5                                                                                                   |
+|                                             |                                                                                                                 |
+|                                             | *Th 10/17:* Multivariate II                                                                                     |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 9: Midterm Week**                    | *Tue 10/22:*                                                                                                    |
+|                                             |                                                                                                                 |
+|                                             | -   Review for Midterm                                                                                          |
+|                                             |                                                                                                                 |
+|                                             | *Th 10/24:*                                                                                                     |
+|                                             |                                                                                                                 |
+|                                             | -   Midterm Exam in class                                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 10: Probability**                    | *Tue 10/29*:                                                                                                    |
+|                                             |                                                                                                                 |
+|                                             | -   DSS: Ch. 6                                                                                                  |
+|                                             |                                                                                                                 |
+|                                             | *Th 10/31*                                                                                                      |
+|                                             |                                                                                                                 |
+|                                             | -   Review DSS Ch. 6                                                                                            |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 11: Mixed Methods**                  | *Tue 11/6: Election Day - No Class*                                                                             |
+|                                             |                                                                                                                 |
+|                                             | *Th 11/8:*                                                                                                      |
+|                                             |                                                                                                                 |
+|                                             | -   Problem Set #3 Due Friday 11/9 at 5pm                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 12: Quantifying Uncertainty**        | *Tue 11/12:*                                                                                                    |
+|                                             |                                                                                                                 |
+|                                             | -   DSS: Ch. 7                                                                                                  |
+|                                             |                                                                                                                 |
+|                                             | *Th 11/14:*                                                                                                     |
+|                                             |                                                                                                                 |
+|                                             | -   Review DSS Ch. 7                                                                                            |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 13: Post-Modeling Analysis**         | *Tue 11/19:*                                                                                                    |
+|                                             |                                                                                                                 |
+|                                             | -   Healy, *Data Visualization*                                                                                 |
+|                                             |                                                                                                                 |
+|                                             | *Th 11/21:*                                                                                                     |
+|                                             |                                                                                                                 |
+|                                             | -   Review                                                                                                      |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 14: Thanksgiving Holiday**           | *Tue 11/26: Guest Lecture: Dr. Kuehl and Experiments?*                                                          |
+|                                             |                                                                                                                 |
+|                                             | -   **Problem Set #4 Due**                                                                                      |
+|                                             |                                                                                                                 |
+|                                             | *Th 11/28 No Class - Thanksgiving Holiday*                                                                      |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Week 15: Final Presentations**            | *Mon 12/2: Presentations*                                                                                       |
+|                                             |                                                                                                                 |
+|                                             | *Wed 12/4: Presentations*                                                                                       |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Finals Week**                             | *Tue 12/1: Presentations 2:00-3:50pm*                                                                           |
++---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
