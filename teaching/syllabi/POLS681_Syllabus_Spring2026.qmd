@@ -55,9 +55,7 @@ advdate <- function(obj, adv) {
 ## What is this course about?
 
 This course is a graduate-level survey of social scientific research on peace, conflict, and security. It is intentionally broad, attempting to encompass several different "subfields within the subfield." These sometimes go by different names such as international security, security studies, conflict processes, and peace science.  More specifically, this seminar will include the examination of both interstate and civil conflicts as well as bridge quantitative and qualitative methodological approaches. We will examine the various conceptualizations and definitions of conflict, theories about the causes of violence at both the sub-state and interstate levels, and variation in the forms that conflict can take. This is one of the four core courses for preparation for the Ph.D. candidacy exam in international relations. This syllabus (including the recommended readings) constitutes the reading list for the international security portion of the exam. The course also serves students who are approaching the study of global security from a policy perspective. We will focus on the relationship between scholarship and policy, what research tells us about what kinds of policies "work," and what areas are in need of further research to meet pressing real-world challenges.
-# Mode of Delivery
 
-We will meet Fridays between 9:30am and 12:10pm in DuSable 228. (At least for now. That room may change depending on its suitability.)
 
 # Texts
 
@@ -65,7 +63,7 @@ Students are required to obtain a copy of the following text:
 
  - Dan Reiter, ed. *Understanding War and Peace, 2nd Edition.* Cambridge University Press, 2023.
 
-All other readings are available through a class Zotero shared collection. Alternatively, students may locate materials on their own through the NIU libraries.
+All other readings are available through a [class Zotero shared collection](https://www.zotero.org/groups/2270239/pols681). Alternatively, students may locate materials on their own through the NIU libraries.
 
 # Evaluation
 
@@ -76,19 +74,13 @@ The time we spend in class is for me the most important of this course. As such,
 For each week, you will be required to draft written summaries on each of the readings. Templates will be provided. For those students planning on taking a candidacy exam in IR, these written summaries will prove invaluable. 
 
 - *Final Project (40%):*
-You will produce a "half" research paper, in the range of 4k-6k words. By this I mean that you will either focus on a puzzle, theory, and research design (without actually conducting the empirical work), or you will provide only a brief theoretical motivation before presenting an in-depth case study or analysis of quantitative data. 
-
-You may also choose to complete a "full" paper in conjunction with another course like POLS 603 or 642. I encourage this option, but you must seek permission from both me and the instructor of the other course.
-
-You will produce two drafts of the paper, the first of which will be reviewed by me and another student. You will then have the opportunity to produce a revised version of the paper. Each version is worth 20 percent of your grade.
+You will produce a "half" research paper, in the range of 4k-6k words. By this I mean that you will either focus on a puzzle, theory, and research design (without actually conducting the empirical work), or you will provide only a brief theoretical motivation before presenting an in-depth case study or analysis of quantitative data. You may also choose to complete a "full" paper in conjunction with another course like POLS 603 or 642. I encourage this option, but you must seek permission from both me and the instructor of the other course. You will produce two drafts of the paper, the first of which will be reviewed by me and another student. You will then have the opportunity to produce a revised version of the paper. Each version is worth 20 percent of your grade.
 
 
-- *Peer Review Essay (20%):*
-
-You will read another student's initial research paper draft and write a 1,000 word review memo as if you had been asked to read the paper as a submission to a professional political science journal. Your memo will be sent to the author, but the identities of both author and reviewer will be kept anonymous. Of course, in a small class, it is entirely possible that you may be able to figure out the identities of either the author or reviewer. This is often true in professional practice as well. But I expect that you not engage in deliberate efforts to ascertain or disclose identities, as is the professional norm.
+- *Peer Review Essay (20%):* You will read another student's initial research paper draft and write a 1,000 word review memo as if you had been asked to read the paper as a submission to a professional political science journal. Your memo will be sent to the author, but the identities of both author and reviewer will be kept anonymous. Of course, in a small class, it is entirely possible that you may be able to figure out the identities of either the author or reviewer. This is often true in professional practice as well. But I expect that you not engage in deliberate efforts to ascertain or disclose identities, as is the professional norm.
 
 
-## Grading Standards
+# Grading Standards
 
 As a graduate student, you are at the point in your professional development where it is your written work itself that matters (and how that work is received by a broader scholarly community) more than the grade arbitrarily assigned by a single cantankerous professor. Nevertheless, grades can serve as a helpful signaling device for your own self-assessment, for departmental funding decisions, and to admissions committees at PhD programs (for MA students planning to continue on...). The scheme below is taken from Prof. Kyle Beardsley in the political science department at Duke University with some modifications to adapt to our departmental norms and my own personal views. It may also be helpful to think about the grading distributionally. In the past, I have generally awarded between 1 and 3 straight As per graduate seminar. The modal grade has been an A-, with a few Bs and B+s.
 
@@ -103,7 +95,7 @@ As a graduate student, you are at the point in your professional development whe
 -   **B-** : *Barely Satisfactory Performance.* Mostly satisfactory work on course-related tasks, but with notable deficiencies. A general understanding of the issues, literature, and substantive information relevant to the course. Understands at a basic level the facts and theories related to the course, but with clear gaps, errors, or incomplete work. Grades lower than this represent unsatisfactory work.
 
 
-## Course Policies
+# Course Policies
 
 -   **Committed to your success:** Beyond all else, I am committed to the success of every student in this class. I encourage *everyone* in the class to reach out to me if there is anything I can do in terms of the delivery of the course that would help you be more successful. I might not always be able to make it happen, but I will never discourage you from asking.
 
@@ -117,26 +109,24 @@ As a graduate student, you are at the point in your professional development whe
 
     This is an issue I take seriously. Unfortuntely, it has increasingly become an issue in the graduate political science program. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty will *always* result in an F on the assignment and notification to the department chair and director of graduate studies.
 
--   **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become a valuable tool for academic researchers as well as policy practitioners. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. The challenge, however, is that reliance on AI tools can short-circuit the learning process, preventing you from developing the skills and knowledge you need to be successful. As such, I will provide specific instructions for each assignment regarding the permissible and prohibited uses of AI tools.
+-   **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become a valuable tool for academic researchers as well as policy practitioners. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. The challenge, however, is that reliance on AI tools can short-circuit the learning process, preventing you from developing the skills and knowledge you need to be successful. Furthermore, AI is fraught with ethical, environmental, social, and intellectual property issues (see some thoughtful commentary by Prof. Andrew Heiss at Georgia State [here](https://www.andrewheiss.com/ai/)).
 
-In general, the following principles will apply:
+For each assignment, I will provide specific instructions regarding the permissible and prohibited uses of AI tools. In general, the following principles will apply:
 
 1) The use of direct or paraphrased text from an AI source is explicitly prohibited in all cases. In cases where AI detectors identify a high probability of AI-generated content, the student will be invited to an oral examination of the content.
 
 2) Students may use AI tools to make grammatical/stylistic suggestions for text originally written by the student.
 
-3) Students may use AI tools to identify sources and arguments within the literature. In such cases, students must *ALWAYS* identify, read, and cite the original source.
-
-4) Students will be held responsible for any incorrect information or hallucinated sources that come from AI tools.
+3) Students may use AI as a research tool to identify sources and arguments within the literature. In such cases, students must *ALWAYS* identify, read, and cite the original source. Students will be held responsible for any incorrect information or hallucinated sources that come from AI tools.
 
 # Class Schedule
 
-Students are expected to read the following before Friday's class session. This syllabus, including the recommended readings and book list, constitutes the reading list for the subtopic of International Security for the PhD Candidacy exam in IR. An asterisk next to a journal article indicates that the author has expanded the idea into a book, included in the book list at the end of the syllabus. PhD students preparing for the candidacy exam should be familiar with the book as well (and others may wish to take a look at the book as well of course!).
+Students are expected to read the following before Friday's class session. This syllabus, including the recommended readings and book list, constitutes the reading list for the subtopic of International Security for the PhD Candidacy exam in IR. An asterisk next to a journal article indicates that the author has expanded the idea into a book, included in the book list at the end of the syllabus. PhD students preparing for the candidacy exam should be familiar with the book as well.
 
 ## `r advdate(mon, 1)`: Theory, Method, and Purpose in the Study of Security
 
 - "Introduction" by Dan Reiter in *UWP*
-- @Frieden2019
+- @Mitchell2013
 - @Jentleson2002
 - @Thomas2003
 - @Hoagland2020
@@ -178,13 +168,12 @@ Students are expected to read the following before Friday's class session. This 
 
 *Recommended Readings*
 
-- @Frieden2019a
 - @BuenodeMesquita1980
 - @Werner1999
 - @Kydd2000
 - @Powell2006
 
-#  `r advdate(mon, 4)`: Economics and War
+##  `r advdate(mon, 4)`: Economics and War
 
 - Poast, "Economics and War" in *UWP*
 - @Keohane1977, Ch. 1 *
@@ -194,7 +183,6 @@ Students are expected to read the following before Friday's class session. This 
 
 *Recommended Readings*
 
-- @Hufbauer2007
 - @Maoz2009
 - @Poast2019
 - @Ross2015
@@ -246,7 +234,7 @@ Students are expected to read the following before Friday's class session. This 
 
 
 
-#  `r advdate(mon, 7)`: Psychology and Leadership
+##  `r advdate(mon, 7)`: Psychology and Leadership
 
 - Horowitz, "Leaders, Institutions, and Foreign Policy" in *UWP*
 - @Saunders2009 *
@@ -263,7 +251,7 @@ Students are expected to read the following before Friday's class session. This 
 
 
 
-#  `r advdate(mon, 8)`: Organizing Armies
+##  `r advdate(mon, 8)`: Organizing Armies
 
 - @Brooks2019
 - @Talmadge2016
@@ -314,10 +302,12 @@ Students are expected to read the following before Friday's class session. This 
 
 
 
-##  `r advdate(mon, 12)`: Environmental Conflict
+##  `r advdate(mon, 12)`: New Technologies and Conflict
 
 
 - Hendrix, "Environmental Conflicts" in *UWP*
+- @Lin-Greenberg2023
+- @Goldfarb2021
 
 **PEER REVIEW DUE**
 *No Reading Memos*
@@ -370,7 +360,7 @@ Students are expected to read the following before Friday's class session. This 
 
 
 
-#  `r advdate(mon, 16)`: The Future of Peace
+##  `r advdate(mon, 16)`: The Future of Peace
 
 - @Jervis2002
 - @Gleditsch2013 *
