@@ -1,6 +1,6 @@
 ---
-title: 'POLS 641 --- Introductory Analysis of Political Data' 
-subtitle: 'Fall 2024 | Tu/Th 2:00-3:15pm | DuSable 228'
+title: 'POLS 642 --- Intermediate Analysis of Political Data' 
+subtitle: 'Spring 2026 | Tu/Th 2:00-3:15pm | DuSable 464'
 date-modified: 'August 25, 2024'
 page-layout: full
 toc: true
@@ -8,26 +8,25 @@ toc: true
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache=FALSE, dev='pdf')
-first.class <- as.Date("2024-08-24")
-# fri <- as.Date("2016-01-08")
+mon <- as.Date("2026-01-12")
+tue <- as.Date("2026-01-13")
+thu <- as.Date("2026-01-15")
+fri <- as.Date("2026-01-16")
 
-advdate <- function(wk, dy) {
- cdate <- first.class + 7*(wk-1) + 4*(dy-1)
- cdate <- format(cdate, format="%m/%d")
- cday <- ifelse(dy==1, "Monday", "Friday")
- tmp <- paste(cday, cdate)
+advdate <- function(obj, adv) {
+ tday <- obj + 7*(adv-1)
+ tday <- format(tday, format="%b. %d")
+ tmp <- paste(tday)
  return(tmp)
 }
-
-
 ```
 
 ::: {.callout-important title="Key Course Info" icon="false"}
 -   **TOPIC:**   This is an introduction to quantitative methods as used in political science research.
--   **MODALITY:**   This is an in-person course. We meet **Tuesdays and Thursdays from 2-3:15 in DuSable 228.**
+-   **MODALITY:**   This is an in-person course. We meet **Tuesdays and Thursdays from 2-3:15 in DuSable 464.**
 -   **ASSESSMENTS:**   Major assessments consist of problem sets, a midterm exam, and a final project.
--   **PREREQUISITES:**   This course assumes no prior coursework onr knowledge of statistice. It is open to all graduate students in the political science department and others upon permission of the instructor.
--   **MATERIALS:**   One textbook is required: Llaudet and Imai's Introduction to Data Analysis.
+-   **PREREQUISITES:**   This course presumes successful completion of POLS 641 or an alternative introduction to statistics course that introduces students to the R programming language.
+-   **MATERIALS:**   The main textbook used will be Nick Huntington Klein's [*The Effect*](https://theeffectbook.net). Students in posession of Bailey's *Real Stats* may use that as an alternative.
 :::
 
 ### Instructor
@@ -42,52 +41,54 @@ advdate <- function(wk, dy) {
 
 {{< fa university >}}   414 Zulauf Hall\
 {{< fa envelope >}}   <a href="mailto:{{cthurber@niu.edu}}">cthurber\@niu.edu </a>\
-{{< fa calendar >}}   Office Hours: M/T 9:30 - 11:00 am\
-{{< fa calendar-check >}}   [Schedule an appointment](https://calendly.com/chesthurber/officehours)
+{{< fa calendar >}}   Office Hours: Tu/Th 9:30 - 11:00 am\
+{{< fa calendar-check >}}   [Schedule an appointment](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 :::
 :::
 
 ## What is this course about?
 
-This is the first course in the NIU Political Science Department's quantitative methods sequence. It is required of all graduate students and is intended as an introduction to the methodological tools used by social scientists in analyzing numeric data. The primary goal of the course is to increase students' comfort in engaging with and thinking about quantitative analysis. It will emphasize the linkages between concept and measurement, the fundamentals of distributions, randomness and uncertainty, and the challenges of statistical inference. The emphasis is on fundamental concepts and programming proficiency, with relatively little formal mathematics. Students should leave the course with the ability to engage with quantitative empirical research, even if they do not fully understand the methods being employed, and with the basic statistical and computer programming tools to pursue more advanced study.
+This is the second course in the NIU Political Science Department's quantitative methods sequence. It is now a required course for all Ph.D. students and strongly encouraged for all MA students. The course focuses on linear regression models with an emphasis on the concepts of probability and inference, the assumptions of linear regression estimation, and the application of linear models to research questions. Students should leave the course with the ability to engage with quantitative empirical research, to understand the core concepts and logic of causal inference, to employ basic OLS and logit models in their own research, and to further their statistical skills through either more advanced coursework or self-learning. In order to accomplish these goals, we will spend a significant amount of time learning statistical computer programming in R. 
 
 ## Mode of Delivery
 
 This course will be conducted in person, twice a week. Students are expected to bring a laptop to class capable of running statistical software. Generally, we will focus on substantive topics on Tuesdays and programming on Thursdays.
 
-## Office Hours
-
-I will be holding office hours on Mondays and Tuesdays between 9:30 and 11:00. Office hours appointments are available either in-person in my office or online. I strongly encourage you to take advantage of this; since we don't have class in person, this is the best chance I have to get to know you! Sign up for an appointment at [this link.](https://calendly.com/chesthurber/officehours) The system will send you a Zoom link that we can use for our meeting. Or you can just show up at my office at that time.
 
 ## Texts
 
 The required textbook for the course is:
 
--   Elene Llaudet and Kosuke Imai. *Data Analysis for Social Science: a Friendly and Practical Introduction.* Princeton University Press, 2023.
+-   Nick Huntington-Klein. *The Effect: An Introduction to Research Design and Causality* Chapman and Hall, 2025.
 
-I also strongly recommend the following new book on data visualization using R and GGPlot. You can buy a hard copy online, or use a free online version available [here.](http://socviz.co)
+A free online version is available [here](https://theeffectbook.net). If you would like a hard-copy version, you can order one [here](https://www.routledge.com/The-Effect-An-Introduction-to-Research-Design-and-Causality/Huntington-Klein/p/book/9781032580227).
 
--   Kieran Healy. *Data Visualization: A Practical Introduction.* Princeton University Press, 2018.
+We will also frequently use the following alternative text for both required and supplementary readings:
 
-Finally, the short book by Stephen Van Evera below was a valuable tool to me as a graduate student, and may be to you as well.
+- Andrew Gelman, Jennifer Hill, and Aki Vekhari. *Regression and Other Stories,* Cambridge University Press, 2020.
 
--   Stephen Van Evera, *Guide to Methods for Students of Political Science.* Cornell University Press, 1997.
+A free (and legit) online PDF is available [here](https://users.aalto.fi/~ave/ROS.pdf).
 
-Additional texts will be available on the Blackboard site. This includes both some additional readings on the syllabus, as well as supplementary texts. Statistics can be hard and confusing and sometimes seeing the same thing presented in different ways can be helpful.
+If you previously purchased Bailey's *Real Stats,* you are welcome to use that instead. The syllabus will include the pages from that text that align with the week's topic.
+
+
+
+
+
 
 ## Computer Programming in R
 
-As part of this course, you will learn to use the statistical programming language R. Why R? Because it's free. And also because it's the one your instructor uses in his own research (Why? See reason 1...) We will talk about some of the other statistical programming languages in class and their relative advantages and weaknesses. Whatever software is being used however, learning to program, especially for the first time, can be difficult. In fact, even for advanced users, dealing with coding errors is time-consuming, mentally exhausting, and often extremely frustrating. We will therefore proceed at a slow pace, walk through everything in class, and I will encourage you to work in groups on homework problems. I only ask that your final submitted work be your own.
+As part of this course, we will continue to use the statistical programming language R. It is assumed that students have developed a solid introduction to R in POLS 641 and we will build on that foundation. I will continue to teach R skills in class, we will do a lot of DataCamp exercises, and The Effect textbook includes code examples in R. But I will ask you to increasingly figure things out on your own. Part of the skillset being developed in this class is the ability to teach yourself going forward, both with regards to statistics as well as to programming (at least until AI makes programming unnecessary...)
 
 ## Evaluation
 
-*Class attendance, preparation and participation (20%):* The time we spend in class is for me the most important part of this course. As such, punctual attendance is mandatory. But more important than just being present at a desk is that you are actively engaged. I expect that you have done the readings and that you try to participate in discussion each and every class section. I also expect that you follow along with programming demonstrations and work with your classmates to complete in-class exercises.
+*Class attendance, preparation and participation (10%):* The time we spend in class is for me the most important part of this course. As such, punctual attendance is mandatory. But more important than just being present at a desk is that you are actively engaged. I expect that you have done the readings and that you try to participate in discussion each and every class section. I also expect that you follow along with programming demonstrations and work with your classmates to complete in-class exercises.
 
-*Problem Sets and Data Camp(30%):* You will have a number of problem sets to complete over the course of the semester. I encourage you to work in groups to complete the problem sets. However, I ask that the final work submitted be your own. This can be a little ambiguous, but to me means that 1) group work is conducted in a good-faith collaborative effort in which all participants are actively seeking to contribute; and 2) written work, including code, is produced by the individual student, not copied and pasted from other students' work. I will also assign some lessons through the website Data Camp. I will check for completion and these will be worth less than the problem sets.
+*Problem Sets and Data Camp(25%):* You will have a number of problem sets to complete over the course of the semester. I encourage you to work in groups to complete the problem sets. However, I ask that the final work submitted be your own. This can be a little ambiguous, but to me means that 1) group work is conducted in a good-faith collaborative effort in which all participants are actively seeking to contribute; and 2) written work, including code, is produced by the individual student, not copied and pasted from other students' work. I will also assign some lessons through the website Data Camp. I will check for completion and these will be worth less than the problem sets.
 
-*Midterm Exam (20%):* There will be an in-class, closed-book midterm exam. Questions will be a mix of multiple choice, matching, and short answer.
+*Midterm Exam (30%):* There will be an in-class, closed-book midterm exam. Questions will be a mix of multiple choice and short answer.
 
-*Final Project (30%):* You will produce a final project in written and presentational form. This project will involve an independent quantitative analysis of some type in which you develop a hypothesis or more, present relevant data and provide visualizations and basic descriptive measures, and evaluate your hypothesis with appropriate statistical tests including (but not limited to) linear regression. You will write-up a 10-page (or so) mini-paper and deliver a 10-minute conference-style presentation on the final day of class.
+*Final Project (35%):* You will produce a final project in written and presentational form. This project will involve an independent quantitative analysis of some type in which you develop a hypothesis or more, present relevant data and provide visualizations and basic descriptive measures, and evaluate your hypothesis with appropriate statistical tests including (but not limited to) linear regression. You will write-up a 10-page (or so) mini-paper and deliver a 10-minute conference-style presentation on the final day of class.
 
 ## Grading Standards
 
@@ -117,128 +118,178 @@ As a graduate student, you are at the point in your professional development whe
 
     This is an issue I take seriously. Unfortuntely, it has increasingly become an issue in the graduate political science program. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty in the forms of cheating on the midterm exam or plagiarism in th final project will *always* result in an F on the assignment and a formal misconduct report filed with the university. The recommendation I make in that report (e.g. failure from the course, suspension, expulsion from the university) will depend on the circumstance.
 
--   **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become an essential tool in the workplace and society. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. This is especially true in the field of data science. The challenge then becomes learning how to use it well and how to develop those critical thinking and writing skills in an AI world. To this end, I will provide explicit instructions for each assignment as to whether and how AI may be used. Violation of these rules will be considered academic dishonesty.
+-   **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become a valuable tool for academic researchers and especially data analysts. Used well and in combination with strong critical thinking, writing, and programming skills, it may be able to help you be a better student and professional. The challenge, however, is that reliance on AI tools can short-circuit the learning process, preventing you from developing the skills and knowledge you need to be successful. Furthermore, AI is fraught with ethical, environmental, social, and intellectual property issues (see some thoughtful commentary by Prof. Andrew Heiss at Georgia State [here](https://www.andrewheiss.com/ai/)).
+
+   For each assignment, I will provide specific instructions regarding the permissible and prohibited uses of AI tools. In general, the following principles will apply:
+
+  1) The use of direct or paraphrased text from an AI source is explicitly prohibited in all cases. In cases where AI detectors identify a high probability of AI-generated content, the student will be invited to an oral examination of the content.
+
+  2) Students may use AI tools to make grammatical/stylistic suggestions for text originally written by the student.
+
+  3) Students may use AI as a research tool to identify sources and arguments within the literature. In such cases, students must *ALWAYS* identify, read, and cite the original source. Students will be held responsible for any incorrect information or hallucinated sources that come from AI tools.
+
+  4) Students may use AI to help figure out how to implement a specific operation or statistical technique in R. Students *MUST* go through any code generated by AI line by line and understand what each line does. At any point, the instructor may ask a student to verbally explain the code used in a problem set or paper and to incorporate the quality of the answer into the grade for the assignment.
 
 # Class Schedule
 
-Students are expected to read the listed readings before the indicated class session.
+Students are expected to complete readings in the Bailey text prior to Tuesday's class. DataCamp lessons and R implementations from the Carilli book can be done before Thursday's class.  
 
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| Topic                                       | Assignments                                                                                                     |
-+=============================================+:================================================================================================================+
-| **Week 1: Getting Set Up**                  | *No class this week!*                                                                                           |
-|                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 1                                                                                                  |
-|                                             | -   Install R and R Studio                                                                                      |
-|                                             | -   Download the [course files](https://press.princeton.edu/student-resources/data-analysis-for-social-science) |
-|                                             | -   Run all of the example code in DSS Ch. 1                                                                    |
-|                                             | -   If you can, download and complete DSS Ch. 1 Tutorial                                                        |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 2: Concepts and Measures**           | *Tue 9/3:*                                                                                                      |
-|                                             |                                                                                                                 |
-|                                             | -   Gerring, Chs. 1-4                                                                                           |
-|                                             |                                                                                                                 |
-|                                             | *Th 9/5:*                                                                                                       |
-|                                             |                                                                                                                 |
-|                                             | -   Data Camp: "Intro to R"                                                                                     |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 3: Causation**                       | *Tue 9/10:*                                                                                                     |
-|                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 2                                                                                                  |
-|                                             |                                                                                                                 |
-|                                             | *Th 9/12:*                                                                                                      |
-|                                             |                                                                                                                 |
-|                                             | -   Problem Set #1 Due Friday 9/13 \@ 5pm                                                                       |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 4: Description**                     | *Tue 9/17:*                                                                                                     |
-|                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 3                                                                                                  |
-|                                             |                                                                                                                 |
-|                                             | *Thur 9/19:*                                                                                                    |
-|                                             |                                                                                                                 |
-|                                             | -   Data Camp: Grouping and Summing                                                                             |
-|                                             |                                                                                                                 |
-|                                             | -   Data Camp: Types of Data                                                                                    |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 5: Data Visualization**              | *Tue 9/24:*                                                                                                     |
-|                                             |                                                                                                                 |
-|                                             | -   Healy, *Data Visualization for the Social Sciences*                                                         |
-|                                             |                                                                                                                 |
-|                                             | *Th 9/26*                                                                                                       |
-|                                             |                                                                                                                 |
-|                                             | -   Data Camp: Data Wrangling                                                                                   |
-|                                             |                                                                                                                 |
-|                                             | -   Data Camp: Data Visualization                                                                               |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 6: Prediction/Bivariate Regression** | *Tue 10/1*                                                                                                      |
-|                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 4                                                                                                  |
-|                                             |                                                                                                                 |
-|                                             | *Th 10/3*                                                                                                       |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 7: More OLS and Causality**          | *Tue 10/8: Model Fit*                                                                                           |
-|                                             |                                                                                                                 |
-|                                             | -   Review DSS Ch. 4                                                                                            |
-|                                             |                                                                                                                 |
-|                                             | *Th 10/10: Causality*                                                                                           |
-|                                             |                                                                                                                 |
-|                                             | -   Review DSS Ch. 2                                                                                            |
-|                                             |                                                                                                                 |
-|                                             | *Problem Set #2 Due Friday at 5pm*                                                                              |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 8: Multivariate Regression**         | *Tue 10/15:* Multivariate I                                                                                     |
-|                                             |                                                                                                                 |
-|                                             | -   DSS Ch. 5                                                                                                   |
-|                                             |                                                                                                                 |
-|                                             | *Th 10/17:* Multivariate II                                                                                     |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 9: Midterm Week**                    | *Tue 10/22:*                                                                                                    |
-|                                             |                                                                                                                 |
-|                                             | -   Review for Midterm                                                                                          |
-|                                             |                                                                                                                 |
-|                                             | *Th 10/24:*                                                                                                     |
-|                                             |                                                                                                                 |
-|                                             | -   Midterm Exam in class                                                                                       |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 10: Probability**                    | *Tue 10/29*:                                                                                                    |
-|                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 6                                                                                                  |
-|                                             |                                                                                                                 |
-|                                             | *Th 10/31*                                                                                                      |
-|                                             |                                                                                                                 |
-|                                             | -   Review DSS Ch. 6                                                                                            |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 11: Mixed Methods**                  | *Tue 11/6: Election Day - No Class*                                                                             |
-|                                             |                                                                                                                 |
-|                                             | *Th 11/8:*                                                                                                      |
-|                                             |                                                                                                                 |
-|                                             | -   Problem Set #3 Due Friday 11/9 at 5pm                                                                       |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 12: Quantifying Uncertainty**        | *Tue 11/12:*                                                                                                    |
-|                                             |                                                                                                                 |
-|                                             | -   DSS: Ch. 7                                                                                                  |
-|                                             |                                                                                                                 |
-|                                             | *Th 11/14:*                                                                                                     |
-|                                             |                                                                                                                 |
-|                                             | -   Review DSS Ch. 7                                                                                            |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 13: Post-Modeling Analysis**         | *Tue 11/19:*                                                                                                    |
-|                                             |                                                                                                                 |
-|                                             | -   Healy, *Data Visualization*                                                                                 |
-|                                             |                                                                                                                 |
-|                                             | *Th 11/21:*                                                                                                     |
-|                                             |                                                                                                                 |
-|                                             | -   Review                                                                                                      |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 14: Thanksgiving Holiday**           | *Tue 11/26: Guest Lecture: Dr. Kuehl and Experiments?*                                                          |
-|                                             |                                                                                                                 |
-|                                             | -   **Problem Set #4 Due**                                                                                      |
-|                                             |                                                                                                                 |
-|                                             | *Th 11/28 No Class - Thanksgiving Holiday*                                                                      |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Week 15: Final Presentations**            | *Mon 12/2: Presentations*                                                                                       |
-|                                             |                                                                                                                 |
-|                                             | *Wed 12/4: Presentations*                                                                                       |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Finals Week**                             | *Tue 12/1: Presentations 2:00-3:50pm*                                                                           |
-+---------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+## Week 1: Introduction and Data Visualization
+
+Tuesday `r advdate(tue, 1)`
+
+  - *The Effect:* [Chapters 1 and 2](https://theeffectbook.net/ch-TheDesignofResearch.html)
+  - OPTIONAL: *ROS:* [Chapter 1](https://users.aalto.fi/~ave/ROS.pdf)
+
+Thursday `r advdate(thu, 1)`
+
+  - Healy, *Data Visualization*, [Chs. 1-3](socviz.co)
+  - Data Camp: "Introduction to the Tidyverse" or "Introduction to Data Visualization with ggplot2" (Due Friday `r advdate(fri, 1)` by 5PM)
+
+
+## Week 2: Describing Variables
+
+Tuesday `r advdate(tue, 2)`
+
+  - *The Effect:* [3.1-3.4](https://theeffectbook.net/ch-DescribingVariables.html)
+  - Recommended: Data Camp "Foundations of Probability in R"
+ 
+
+Thursday `r advdate(thu, 2)`
+
+   - *The Effect:* [3.5](https://theeffectbook.net/ch-DescribingVariables.html#theoretical-distributions)
+  - Data Camp: "Hypothesis Testing in R" (DUE Friday `r advdate(fri, 2)` by 5PM)
+  
+
+
+##  Week 3: Describing Relationships
+
+Tuesday `r advdate(tue, 3)`
+
+  - *The Effect:* [4.1-4.3](https://theeffectbook.net/ch-DescribingRelationships.html)
+  - Optional *Real Stats*: Chs. 3, 14.1, 14.2
+
+Thursday `r advdate(thu, 3)`
+
+   - *The Effect:* [4.4-4.7](https://theeffectbook.net/ch-DescribingRelationships.html#line-fitting)
+  - Data Camp: "Simple Linear Regression" and "Predictions and Model Objects" (DUE Friday `r advdate(fri, 3)` by 5PM)
+
+
+  
+##  Week 4: Hypothesis Testing and Regressions
+
+Tuesday `r advdate(tue, 4)`
+
+  - *The Effect:* [13.1-13.1.7](https://theeffectbook.net/ch-StatisticalAdjustment.html)
+  - Optional *Real Stats*: Ch. 4
+
+Thursday `r advdate(thu, 4)`
+
+   - *The Effect:* [13.2-13.2.3](https://theeffectbook.net/ch-StatisticalAdjustment.html#getting-fancier-with-regression)
+   - Optional *Real Stats*: Ch. 6
+   - Data Camp: "Assessing Model Fit" and "Parallel Slopes" (DUE Friday `r advdate(fri, 4)` by 5PM)
+
+
+##  Week 5: Interactions and Logits
+
+Tuesday `r advdate(tue, 5)`
+
+  - *The Effect:* [13.2.4-13.2.5](https://theeffectbook.net/ch-StatisticalAdjustment.html#interaction-terms)
+ - Optional *Real Stats*: Ch. 6
+
+Thursday `r advdate(thu, 5)`
+
+   - *The Effect:* [13.2.6](https://theeffectbook.net/ch-StatisticalAdjustment.html#nonlinear-regression)
+   - Optional *Real Stats*: Ch. 12
+   - Data Camp: "Interactions" and "Simple Logit Regression" (DUE Friday `r advdate(fri, 5)` by 5PM)
+
+
+##  Week 6: Regression Assumptions and Diagnostics
+ 
+ Tuesday `r advdate(tue, 6)`
+
+  - *The Effect:* [13.3-13.3.2](https://theeffectbook.net/ch-StatisticalAdjustment.html#your-standard-errors-are-probably-wrong)
+  - Optional *Real Stats*: Ch. 5
+
+Thursday `r advdate(thu, 6)`
+
+   - *The Effect:* [13.4-13.4.4](https://theeffectbook.net/ch-StatisticalAdjustment.html#additional-regression-concerns)
+   - Optional *Real Stats*: Ch. 7
+   - Data Camp: "Multiple Linear Regression" and "Multiple Logit Regression" (DUE Friday `r advdate(fri, 6)` by 5PM)
+ 
+  
+
+##  Week 7: Post-Estimation Analysis
+
+Tuesday `r advdate(tue, 7)`
+
+  - Healy, *Data Visualization*, [Ch. 6](socviz.co)
+
+Thursday `r advdate(thu, 7)`
+  
+  - PROBLEM SET #1 (DUE Friday `r advdate(fri, 7)` by 5PM)
+
+##  Week 8: Exam Week
+
+Tuesday `r advdate(tue, 8)`
+
+  - Review Day
+
+Thursday `r advdate(thu, 8)`
+  
+  - Midterm Exam
+ 
+## Week 9: Spring Break
+
+##  Week 10: Causality
+ 
+   - Heiss, ["Causal Inference"](https://www.andrewheiss.com/research/chapters/heiss-causal-inference-2021/10-causal-inference.pdf)
+   - Optional: *The Effect* [Chapters 5- 11](https://theeffectbook.net/ch-Identification.html)
+  
+## Week 11: Experiments
+
+  - *Real Stats*: Chapter 10
+  - PROBLEM SET #2 (DUE Friday `r advdate(fri, 11)` by 5PM)
+  
+##  Week 12: Matching
+ 
+   - *The Effect* [Chapter 14](https://theeffectbook.net/ch-Matching.html)
+ 
+   
+##  Week 13: Time Series and Fixed Effects
+
+  - *The Effect* [Chapter 8](https://theeffectbook.net/ch-FixedEffects.html)
+  - Optional: *Real Stats:* Chs. 8, 13, 15
+  - PROBLEM SET #3 (DUE Friday `r advdate(fri, 13)` by 5PM)
+
+## Week 14: Event Studies and Diff-in-Diff
+
+- *The Effect* [Chapter 17](https://theeffectbook.net/ch-EventStudies.html)
+- *The Effect* [Chapter 18](https://theeffectbook.net/ch-DifferenceinDifference.html)
+- Optional: *Real Stats:* Chs. 8, 13, 15
+
+## Week 15: Mixed Methods Research
+
+- Lieberman, "Nested Analysis"
+- Seawright and Gerring, "Case Selection Techniques in Case Study Research"
+
+
+##  Week 16: Student Presentations
+
+Tuesday `r advdate(tue, 16)`
+
+  - Student Presentations 1
+
+Thursday `r advdate(thu, 16)`
+  
+  - Student Presentations 2
+  
+## Week 17: Finals Week
+
+Tuesday `r advdate(tue, 17)`
+
+  - Student Presentations 3
+
+**Final Papers Due: Friday 5/8 at 5pm.**
+  
+
