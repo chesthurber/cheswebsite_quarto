@@ -41,7 +41,7 @@ advdate <- function(obj, adv) {
 
 {{< fa university >}}   414 Zulauf Hall\
 {{< fa envelope >}}   <a href="mailto:{{cthurber@niu.edu}}">cthurber\@niu.edu </a>\
-{{< fa calendar >}}   Office Hours: Tu/Th 9:30 - 11:00 am\
+{{< fa calendar >}}   Office Hours: Tu/Th 12:30 - 1:30 pm\
 {{< fa calendar-check >}}   [Schedule an appointment](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 :::
 :::
@@ -136,7 +136,7 @@ Students are expected to complete readings in the Bailey text prior to Tuesday's
 
 ## Week 1: Introduction and Data Visualization
 
-Tuesday `r advdate(tue, 1)`
+[Tuesday](teaching/pols_642/W1L1_Intro.qmd) `r advdate(tue, 1)`
 
   - *The Effect:* [Chapters 1 and 2](https://theeffectbook.net/ch-TheDesignofResearch.html)
   - OPTIONAL: *ROS:* [Chapter 1](https://users.aalto.fi/~ave/ROS.pdf)

@@ -1,0 +1,129 @@
+---
+title: "W1L1: Introduction"
+subtitle: "POLS 642 Intermediate Analysis of Political Data"
+author: "Dr. Ches Thurber"
+format:
+  revealjs:
+    theme: moon
+editor: visual
+---
+
+## Diving right in...
+
+-   in groups, check out [this APSR article](https://www.cambridge.org/core/journals/american-political-science-review/article/do-donors-punish-extremist-primary-nominees-evidence-from-congress-and-american-state-legislatures/50ACE93E42F2CE12BC079CAD78F2D240); read only the abstract and intro
+
+-   what's the research question? what's the hypothesis?
+
+-   what are the IV and DV? how are they measured?
+
+-   what are the research methods?
+
+-   what challenges is the author trying to overcome by using these methods?
+
+## Challenges to inference
+
+Inference in the process of trying to use facts we know learn facts we don't know
+
+Bailey describes two fundamental challenges to inference:
+
+-   the problem of **randomness**: how do we know if patterns in our sample are true in the broader population
+
+-   the problem of **causality**: when can we be confident that a relationship between two variables is due to one causing the other?
+
+This course focuses on both, maybe more on the former?
+
+## Some important points
+
+-   The challenges of randomness and causality are not unique to quantitative research
+
+-   They are not the only things we should be thinking about in assessing "good" research
+
+-   What makes for "good" research?
+
+## My View on "Good Research"
+
+
+"The best advice I received in the discipline was that it is better to take B+ swings at A+ questions than A+ swings at B+ questions."
+
+ - Erica Chenoweth, Harvard Kennedy School
+
+
+![](https://fsi2013.files.wordpress.com/2015/06/20150609_110708-1.jpg){.absolute bottom=20 right=50 height="300"}
+
+
+## My View on Quantitative Methods
+
+-   it can help spot trends and puzzles
+
+-   it can put a specific case in context
+
+-   it can assess the generalizability of a pattern
+
+-   it can adjudicate between competing explanations
+
+-   it opens up specific toolkits (surveys, experiments)
+
+-   it's a tool in service of a bigger goal
+
+## Dr. Kuehl's View
+
+-   "our focus will be on causal inference"
+
+-   "underlying everything we are doing is the concept of causality"
+
+
+![](kuehl-colin.jpg){.absolute bottom=20 right=50 height="400"}
+
+
+## My View on R  {background-image="https://miro.medium.com/max/2560/1*rQeAncJKbDp6awdgBSF-Yg.jpeg" background-color="white"}
+
+-   it's a tool to help make working with data easier (ha!)
+
+-   the replicability advantage
+
+-   the ability to manipulate data
+
+-   graphical representation
+
+-   FREE!
+
+## What We Will Learn in this Course
+
+- Review of basic stats and regression (641)
+- Deeper dive into regression with focus on assumptions, violations, remedies
+- Introduction to thinking about Causal Inference
+- Additional methods, if time permits
+
+## Looking Ahead
+
+-   Today: Intro and Syllabus
+
+-   Thursday: Data Viz, Tidyverse, and GGPLOT
+
+    -   try to do DataCamp by Thursday
+
+-   Friday: Data Camp Due
+
+-   Next Week: Describing Single Variables
+
+## An Unsolicited Note on Software
+
+-   Automatic backup!!!!
+-   Bibliographic management
+-   Statistical Analysis
+-   Editor/Document Producer
+
+## Some Software Options
+
+-   Backup: OneDrive, DropBox, Google Drive, iCloud
+
+-   Citations: Zotero, Mendeley, EndNote
+
+-   Statistical Analysis: R with RStudio IDE
+
+-   Editor: MS Word, Quarto in R Studio, LaTex (?)
+
+
+## The Syllabus
+
+I am going to turn to the [actual syllabus document now...](https://chesthurber.com/teaching/syllabi/POLS642_Syllabus_Spring2026.html)
