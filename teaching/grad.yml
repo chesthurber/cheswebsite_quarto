@@ -15,7 +15,7 @@
   logo: logos/POLS642.png
   semester:
   - name: Spring 2026
-    url: syllabi/POLS642_Syllabus_Spring2026.qmd
+    url: pols642/POLS642_Syllabus_Spring2026.qmd
 
 - title: Introductory Analysis of Political Data
   description: "Consideration of basic concepts in data analysis and statistics such as central tendency, dispersion, probability, confidence intervals, statistical significance, correlation, and bivariate regression."
