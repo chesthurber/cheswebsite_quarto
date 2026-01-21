@@ -1,0 +1,61 @@
+
+---
+title: "How Civil Resistance Improves Inclusive Democracy"
+author: 
+    - name: 
+        given: Subindra
+        family: Bogati
+        literal: Subindra Bogati
+    - name: 
+        given: Titik
+        family: Firawati
+        literal: Titik Firawati
+    - name: 
+        given: Jonathan
+        family: Pinckney
+        literal: Jonathan Pinckney
+      orcid: 0000-0002-8427-7423
+    - name: 
+        given: Ches
+        family: Thurber
+        literal: Ches Thurber
+      orcid: 0000-0002-3407-7589
+
+logo: "logos/PoP.jpeg"    
+date: "2025"
+pub-info:
+  reference: '“How Civil Resistance Improves Inclusive Democracy,” with Subindra Bogati, Titik Firawati, and Jonathan Pinckney. <em>Perspectives on Politics </em> 23 no. 2 (2025):552-569.'
+  
+  links:
+    - name: Final version (Ungated)
+      url: https://doi.org/10.1017/S1537592724000999
+      icon: fa-solid fa-arrow-up-right-from-square
+    - name: Data and Code
+      url: https://doi.org/10.7910/DVN/H6DSYF
+      icon: fa-solid fa-table
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1017/S1537592724000999
+      icon: ai ai-zotero-square
+categories:
+    - civil resistance
+    - democratization
+    - ethnicity
+    - gender
+    
+
+citation:
+  type: article-journal
+  title: "How civil resistance improves inclusive democracy"
+  container-title: Perspectives on Politics
+  volume: 23
+  issue: 2
+  issued: 2025
+  page-first: 552
+  page-last: 569
+  url: https://doi.org/10.1017/S1537592724000999
+google-scholar: true
+---
+
+### Abstract
+
+When do political transitions lead to greater inclusion for groups historically excluded from power? Scholars and policymakers often assume the answer is simple: a transition will result in more inclusion when it ends in democracy. Yet this answer is incomplete at best, since many democracies systematically exclude women, particular ethnic groups, or lower economic classes from power. Using data on political transitions around the world from 1945 to 2014, this study shows that a political transition’s initiating force critically shapes post-transition political inclusion. When transitions are initiated through unarmed civil resistance campaigns they achieve greater advances in inclusion relative to other types of transition. We propose three mechanisms to explain this effect: civil resistance leads to greater continued mobilization and civic activism among the historically excluded, provides greater opportunities for elites from historically excluded groups to rise to positions of leadership in new regimes, and forges more pluralistic norms of political behavior.

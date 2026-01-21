@@ -1,0 +1,50 @@
+---
+title: "Resistance Is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts"
+author: 
+    - name: 
+        given: Robert Tanner
+        family: Bivens
+        literal: Robert Tanner Bivens
+      orcid: 0000-0003-1394-7343
+    - name: 
+        given: Ches
+        family: Thurber
+        literal: Ches Thurber
+      orcid: 0000-0002-3407-7589
+
+logo: "logos/JPR.jpeg"    
+date: "2026"
+pub-info:
+  reference: '“Resistance is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts,” with Margherita Belgioioso. <em>Journal of Peace Research</em> (2026).'
+  
+  links:
+    - name: Final version (Ungated)
+      url: https://doi.org/10.1093/jopres/xjaf009
+      icon: fa-solid fa-arrow-up-right-from-square
+    - name: Data and Code
+      url: dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8RUFM5
+      icon: fa-solid fa-table
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1093/jopres/xjaf009
+      icon: ai ai-zotero-square
+categories:
+    - ethnicity
+    - civil resistance
+    - civil war
+
+citation:
+  type: article-journal
+  title: "Resistance is not futile: rethinking ethnicity, tactics, and outcomes in civil conflicts"
+  container-title: Journal of Peace Research
+  volume: NA
+  issue: NA
+  issued: 2026
+  page-first: NA
+  page-last: NA
+  url: https://doi.org/10.1093/jopres/xjaf009
+google-scholar: true
+---
+
+### Abstract
+
+Recent studies have questioned whether nonviolent tactics can be effective for ethnic minorities. However, they often overlook multiethnic coalitions, shifts in campaign composition, and ethnicity’s parallel role in armed tactics. This paper re-evaluates the relationship between ethnicity, tactics, and outcomes in civil conflicts. To do so, we introduce new data on ethnic groups in contention that offer time-variant measures of the ethnic attributes of campaigns. We find that the effectiveness of nonviolent tactics for ethnic minorities depends on the point of comparison. Campaigns composed solely of excluded groups succeed less often than those made up entirely of privileged groups. However, minorities have still fared better when using nonviolent as compared to violent tactics. Additional analyses explore ethnic diversity, multiethnic coalitions, hybrid tactics, and alternative measures of success. Taken together, our findings complicate a prevailing assertion that nonviolent tactics are only effective for members of privileged groups.
