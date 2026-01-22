@@ -22,7 +22,7 @@ pub-info:
       url: https://doi.org/10.1093/jopres/xjaf009
       icon: fa-solid fa-arrow-up-right-from-square
     - name: Data and Code
-      url: dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8RUFM5
+      url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8RUFM5
       icon: fa-solid fa-table
     - name: Add to Zotero
       url: https://www.zotero.org/save?type=doi&q=10.1093/jopres/xjaf009
