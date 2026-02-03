@@ -172,11 +172,11 @@ Tuesday `r advdate(tue, 3)`
 Thursday `r advdate(thu, 3)`
 
    - *The Effect:* [4.4-4.7](https://theeffectbook.net/ch-DescribingRelationships.html#line-fitting)
-  - Data Camp: "Simple Linear Regression" and "Predictions and Model Objects" (DUE Friday `r advdate(fri, 3)` by 5PM)
+  - Data Camp: "Foundations of Probability in R" and "Hypothesis Testing in R" (DUE Friday `r advdate(fri, 3)` by 5PM)
 
 
   
-##  Week 4: Hypothesis Testing and Regressions
+##  Week 4: Regression
 
 Tuesday `r advdate(tue, 4)`
 
@@ -187,7 +187,7 @@ Thursday `r advdate(thu, 4)`
 
    - *The Effect:* [13.2-13.2.3](https://theeffectbook.net/ch-StatisticalAdjustment.html#getting-fancier-with-regression)
    - Optional *Real Stats*: Ch. 6
-   - Data Camp: "Assessing Model Fit" and "Parallel Slopes" (DUE Friday `r advdate(fri, 4)` by 5PM)
+   - Data Camp: "Introduction to Regression in R" (DUE Friday `r advdate(fri, 4)` by 5PM)
 
 
 ##  Week 5: Interactions and Logits
@@ -201,7 +201,7 @@ Thursday `r advdate(thu, 5)`
 
    - *The Effect:* [13.2.6](https://theeffectbook.net/ch-StatisticalAdjustment.html#nonlinear-regression)
    - Optional *Real Stats*: Ch. 12
-   - Data Camp: "Interactions" and "Simple Logit Regression" (DUE Friday `r advdate(fri, 5)` by 5PM)
+   - Data Camp: "Intermediate Regression in R" (DUE Friday `r advdate(fri, 5)` by 5PM)
 
 
 ##  Week 6: Regression Assumptions and Diagnostics
@@ -215,7 +215,7 @@ Thursday `r advdate(thu, 6)`
 
    - *The Effect:* [13.4-13.4.4](https://theeffectbook.net/ch-StatisticalAdjustment.html#additional-regression-concerns)
    - Optional *Real Stats*: Ch. 7
-   - Data Camp: "Multiple Linear Regression" and "Multiple Logit Regression" (DUE Friday `r advdate(fri, 6)` by 5PM)
+
  
   
 
