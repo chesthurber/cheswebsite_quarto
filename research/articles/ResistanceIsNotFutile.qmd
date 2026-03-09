@@ -15,10 +15,10 @@ author:
 logo: "logos/JPR.jpeg"    
 date: "2026"
 pub-info:
-  reference: '“Resistance is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts,” with Margherita Belgioioso. <em>Journal of Peace Research</em> (2026).'
+  reference: '“Resistance is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts,” with Tanner Bivens. <em>Journal of Peace Research</em> (2026).'
   
   links:
-    - name: Final version (Ungated)
+    - name: Final version
       url: https://doi.org/10.1093/jopres/xjaf009
       icon: fa-solid fa-arrow-up-right-from-square
     - name: Data and Code

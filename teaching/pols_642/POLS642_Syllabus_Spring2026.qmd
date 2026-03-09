@@ -1,7 +1,7 @@
 ---
 title: 'POLS 642 --- Intermediate Analysis of Political Data' 
 subtitle: 'Spring 2026 | Tu/Th 2:00-3:15pm | DuSable 464'
-date-modified: 'August 25, 2024'
+date-modified: 'March 8, 2026'
 page-layout: full
 toc: true
 ---
@@ -241,37 +241,76 @@ Thursday `r advdate(thu, 8)`
  
 ## Week 9: Spring Break
 
-##  Week 10: Causality
+## Week 10: Review
+
+Tuesday `r advdate(tue, 10)`
+
+  - Review Weeks 1-4
+
+Thursday `r advdate(thu, 10)`
+  
+  - Review Weeks 5-7
+
+## Week 11: Causality
+
+Tuesday `r advdate(tue, 11)`
+
+  - Midterm Exam Re-Take
+
+Thursday `r advdate(thu, 11)`
  
    - Heiss, ["Causal Inference"](https://www.andrewheiss.com/research/chapters/heiss-causal-inference-2021/10-causal-inference.pdf)
-   - Optional: *The Effect* [Chapters 5- 11](https://theeffectbook.net/ch-Identification.html)
+   - Optional: *The Effect* [Chapters 5-8](https://theeffectbook.net/ch-Identification.html)
   
-## Week 11: Experiments
+## Week 12: Experiments
 
-  - *Real Stats*: Chapter 10
-  - PROBLEM SET #2 (DUE Friday `r advdate(fri, 11)` by 5PM)
+Tuesday `r advdate(tue, 12)`
+
+  - *Real Stats* Chapter 10 or *QSS* Chapter 2
   
-##  Week 12: Matching
- 
+Thursday `r advdate(thu, 12)` 
+
+  - *The Effect* [Chapters 9-10](https://theeffectbook.net/ch-FindingFrontDoors.html)
+
+  - PROBLEM SET #2 (DUE Friday `r advdate(fri, 12)` by 5PM)
+  
+## Week 13: Matching and Mixed Methods
+
+Tuesday `r advdate(tue, 13)`: Matching
+
    - *The Effect* [Chapter 14](https://theeffectbook.net/ch-Matching.html)
+
+Thursday `r advdate(thu, 13)`: Mixed Methods Research
+
+  - Lieberman, "Nested Analysis"
+  - Seawright and Gerring, "Case Selection Techniques in Case Study Research"
+  
+## Week 14: Fixed Effects  
+
+Tuesday `r advdate(tue, 14)`
+
+  - *The Effect* [Chapter 16 - 16.2.1](https://theeffectbook.net/ch-FixedEffects.html)
+  - Optional: *Real Stats* Chapter 8
+  
+Thursday `r advdate(thu, 14)`  
+
+  - *The Effect* [Chapter 16.2.2-16.3](https://theeffectbook.net/ch-FixedEffects.html#multiple-sets-of-fixed-effects)
+  - Optional: *Real Stats* Chapter 15
+
+ - PROBLEM SET #3 (DUE Friday `r advdate(fri, 14)` by 5PM)
+
  
-   
-##  Week 13: Time Series and Fixed Effects
+## Week 15: Diff-in-Diff and Instrumental Variables
 
-  - *The Effect* [Chapter 8](https://theeffectbook.net/ch-FixedEffects.html)
-  - Optional: *Real Stats:* Chs. 8, 13, 15
-  - PROBLEM SET #3 (DUE Friday `r advdate(fri, 13)` by 5PM)
-
-## Week 14: Event Studies and Diff-in-Diff
+Tuesday `r advdate(tue, 15)`
 
 - *The Effect* [Chapter 17](https://theeffectbook.net/ch-EventStudies.html)
+
+Thursday `r advdate(thu, 15)`  
+
 - *The Effect* [Chapter 18](https://theeffectbook.net/ch-DifferenceinDifference.html)
 - Optional: *Real Stats:* Chs. 8, 13, 15
 
-## Week 15: Mixed Methods Research
-
-- Lieberman, "Nested Analysis"
-- Seawright and Gerring, "Case Selection Techniques in Case Study Research"
 
 
 ##  Week 16: Student Presentations

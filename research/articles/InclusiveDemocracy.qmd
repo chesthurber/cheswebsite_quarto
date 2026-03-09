@@ -27,7 +27,7 @@ pub-info:
   reference: '“How Civil Resistance Improves Inclusive Democracy,” with Subindra Bogati, Titik Firawati, and Jonathan Pinckney. <em>Perspectives on Politics </em> 23 no. 2 (2025):552-569.'
   
   links:
-    - name: Final version (Ungated)
+    - name: Final version (Open Access)
       url: https://doi.org/10.1017/S1537592724000999
       icon: fa-solid fa-arrow-up-right-from-square
     - name: Data and Code
