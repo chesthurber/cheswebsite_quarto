@@ -15,7 +15,7 @@ author:
 logo: "logos/JPR.jpeg"    
 date: "2026"
 pub-info:
-  reference: '“Resistance is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts,” with Tanner Bivens. <em>Journal of Peace Research</em> (2026).'
+  reference: '“Resistance is Not Futile: Rethinking Ethnicity, Tactics, and Outcomes in Civil Conflicts,” with Robert Tanner Bivens. <em>Journal of Peace Research</em> (2026).'
   
   links:
     - name: Final version
@@ -45,6 +45,6 @@ citation:
 google-scholar: true
 ---
 
-### Abstract
+### Abstract 
 
 Recent studies have questioned whether nonviolent tactics can be effective for ethnic minorities. However, they often overlook multiethnic coalitions, shifts in campaign composition, and ethnicity’s parallel role in armed tactics. This paper re-evaluates the relationship between ethnicity, tactics, and outcomes in civil conflicts. To do so, we introduce new data on ethnic groups in contention that offer time-variant measures of the ethnic attributes of campaigns. We find that the effectiveness of nonviolent tactics for ethnic minorities depends on the point of comparison. Campaigns composed solely of excluded groups succeed less often than those made up entirely of privileged groups. However, minorities have still fared better when using nonviolent as compared to violent tactics. Additional analyses explore ethnic diversity, multiethnic coalitions, hybrid tactics, and alternative measures of success. Taken together, our findings complicate a prevailing assertion that nonviolent tactics are only effective for members of privileged groups.

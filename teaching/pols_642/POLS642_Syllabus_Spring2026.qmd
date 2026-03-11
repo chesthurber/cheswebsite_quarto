@@ -314,7 +314,7 @@ Tuesday `r advdate(tue, 15)`
 
 Thursday `r advdate(thu, 15)`  
 
-- *The Effect* [Chapter 19]
+- *The Effect* [Chapter 19](https://theeffectbook.net/ch-InstrumentalVariables.html)
 
 
 
