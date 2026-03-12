@@ -241,41 +241,42 @@ Thursday `r advdate(thu, 8)`
  
 ## Week 9: Spring Break
 
-## Week 10: Review
+## Week 10: Causality
 
 Tuesday `r advdate(tue, 10)`
 
-  - Review Weeks 1-4
+  - Review Day
   - Check out *ROS* Chapters 4 and 6
+  Kuehl and Thurber's Assumptions sheet
 
 Thursday `r advdate(thu, 10)`
   
-  - Review Weeks 5-7
-  - Check out *ROS* Assumptions and Kuehl and Thurber's Assumptions sheet
+  -    - Heiss, ["Causal Inference"](https://www.andrewheiss.com/research/chapters/heiss-causal-inference-2021/10-causal-inference.pdf)
+   - Optional: *The Effect* [Chapters 5-8](https://theeffectbook.net/ch-Identification.html)
 
-## Week 11: Causality
+## Week 11: Experiments
 
 Tuesday `r advdate(tue, 11)`
 
-  - Midterm Exam Re-Take
+    - Optional review: *Real Stats* Chapter 10 or *QSS* Chapter 2
+  - *ROS* Experiments
 
 Thursday `r advdate(thu, 11)`
  
-   - Heiss, ["Causal Inference"](https://www.andrewheiss.com/research/chapters/heiss-causal-inference-2021/10-causal-inference.pdf)
-   - Optional: *The Effect* [Chapters 5-8](https://theeffectbook.net/ch-Identification.html)
-  
-## Week 12: Experiments
+  - TBD (Experimental Paper?)
+    - PROBLEM SET #2 (DUE Friday `r advdate(fri, 12)` by 5PM)
+    
+## Week 12: Matching and Midterm Make-up
 
 Tuesday `r advdate(tue, 12)`
 
-  - Optional review: *Real Stats* Chapter 10 or *QSS* Chapter 2
-  - *ROS* Experiments
+  -    - *The Effect* [Chapter 14](https://theeffectbook.net/ch-Matching.html)
   
 Thursday `r advdate(thu, 12)` 
 
-  - TBD
+  - Midterm Makeup
 
-  - PROBLEM SET #2 (DUE Friday `r advdate(fri, 12)` by 5PM)
+
   
 ## Week 13: Fixed Effects  
 
@@ -306,11 +307,11 @@ Thursday `r advdate(thu, 15)`
  - PROBLEM SET #3 (DUE Friday `r advdate(fri, 14)` by 5PM)
 
  
-## Week 15: Matching and Instrumental Variables
+## Week 15: Instrumental Variables
 
 Tuesday `r advdate(tue, 15)`
 
-   - *The Effect* [Chapter 14](https://theeffectbook.net/ch-Matching.html)
+
 
 Thursday `r advdate(thu, 15)`  
 
