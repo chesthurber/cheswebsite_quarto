@@ -251,8 +251,7 @@ Tuesday `r advdate(tue, 10)`
 
 Thursday `r advdate(thu, 10)`
   
-  -    - Heiss, ["Causal Inference"](https://www.andrewheiss.com/research/chapters/heiss-causal-inference-2021/10-causal-inference.pdf)
-   - Optional: *The Effect* [Chapters 5-8](https://theeffectbook.net/ch-Identification.html)
+  - More Review
 
 ## Week 11: Experiments
 
@@ -263,8 +262,8 @@ Tuesday `r advdate(tue, 11)`
 
 Thursday `r advdate(thu, 11)`
  
-  - TBD (Experimental Paper?)
-    - PROBLEM SET #2 (DUE Friday `r advdate(fri, 12)` by 5PM)
+  - Heiss, ["Causal Inference"](https://www.andrewheiss.com/research/chapters/heiss-causal-inference-2021/10-causal-inference.pdf)
+   - Optional: *The Effect* [Chapters 5-8](https://theeffectbook.net/ch-Identification.html)
     
 ## Week 12: Matching and Midterm Make-up
 
@@ -290,7 +289,7 @@ Thursday `r advdate(thu, 13)`
   - *The Effect* [Chapter 16.2.2-16.3](https://theeffectbook.net/ch-FixedEffects.html#multiple-sets-of-fixed-effects)
   - Optional: *Real Stats* Chapter 15
 
-
+ - PROBLEM SET #3 (DUE Friday `r advdate(fri, 13)` by 5PM)
   
 ## Week 14: Dealing with Time
 
@@ -304,20 +303,19 @@ Thursday `r advdate(thu, 15)`
 - *The Effect* [Chapter 18](https://theeffectbook.net/ch-DifferenceinDifference.html)
 - Optional: *Real Stats:* Chs. 8
 
- - PROBLEM SET #3 (DUE Friday `r advdate(fri, 14)` by 5PM)
 
  
-## Week 15: Instrumental Variables
+## Week 15: Instrumental Variables and Mixed Methods
 
 Tuesday `r advdate(tue, 15)`
 
-
+- *The Effect* [Chapter 19](https://theeffectbook.net/ch-InstrumentalVariables.html)
 
 Thursday `r advdate(thu, 15)`  
 
-- *The Effect* [Chapter 19](https://theeffectbook.net/ch-InstrumentalVariables.html)
+- TBD
 
-
+ - PROBLEM SET #3 (DUE Friday `r advdate(fri, 14)` by 5PM)
 
 ##  Week 16: Student Presentations
 
