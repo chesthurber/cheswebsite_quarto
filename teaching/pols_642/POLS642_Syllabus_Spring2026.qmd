@@ -300,22 +300,23 @@ Tuesday `r advdate(tue, 14)`
 
 Thursday `r advdate(thu, 15)`  
 
+- NO CLASS TODAY
+
+
+ 
+## Week 15: DiD and Instrumental Variables
+
+Tuesday `r advdate(tue, 15)`
+
 - *The Effect* [Chapter 18](https://theeffectbook.net/ch-DifferenceinDifference.html)
 - Optional: *Real Stats:* Chs. 8
 
 
- 
-## Week 15: Instrumental Variables and Mixed Methods
-
-Tuesday `r advdate(tue, 15)`
+Thursday `r advdate(thu, 15)`  
 
 - *The Effect* [Chapter 19](https://theeffectbook.net/ch-InstrumentalVariables.html)
 
-Thursday `r advdate(thu, 15)`  
-
-- TBD
-
- - PROBLEM SET #3 (DUE Friday `r advdate(fri, 14)` by 5PM)
+ - PROBLEM SET #3 (DUE Friday `r advdate(fri, 15)` by 5PM)
 
 ##  Week 16: Student Presentations
 
