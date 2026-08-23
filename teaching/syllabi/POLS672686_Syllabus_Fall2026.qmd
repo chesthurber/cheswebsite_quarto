@@ -1,0 +1,227 @@
+---
+title: 'Contentious Politics (POLS 672 / POLS 686)' 
+subtitle: 'Fall 2026 | Fri 9:30am-12:10pm | DuSable 248'
+date-modified: 'August 20, 2026'
+page-layout: full
+toc: true
+---
+
+```{r setup, include=FALSE}
+mon <- as.Date("2026-08-24")
+
+
+advdate <- function(obj, adv) {
+ tmon <- obj + 7*(adv-1)
+ ttue <- obj + 1+ 7*(adv-1)
+ twed <- obj + 2 + 7*(adv-1)
+ tfri <- obj + 4 + 7*(adv-1)
+ tmon <- format(tmon, format="%b. %d")
+ ttue <- format(ttue, format="%b. %d")
+ twed <- format(twed, format="%b. %d")
+ tfri <- format(tfri, format="%b. %d")
+ zadv <- sprintf("%d", adv)
+ tmp <- paste("Week ",zadv,sep=''," (",tfri,")")
+ return(tmp)
+}
+
+
+```
+
+::: {.callout-important title="Key Course Info" icon="false"}
+-   **TOPIC:**   This is a graduate seminar course in the area of contentious politics. This course can be counted toward the CP or IR subfield requirements with consultation from the appropriate faculty.
+-   **MODALITY:**   This is an in-person course. We meet **Fridays from 9:30-12:10 in DuSable 248.**
+-   **ASSESSMENTS:**   There will be weekly reading analysis memos, a major seminar paper, and a peer review memo assignment. 
+-   **PREREQUISITES:**   None.
+-   **MATERIALS:**   All assigned readings are available electronically from the NIU library or will be posted on Blackboard. Students may wish to purchase hard copies of the books.
+:::
+
+### Instructor
+
+::: {.grid .course-details .course-details-smaller}
+::: g-col-4
+![](https://chesthurber.com/img/Thurber_Profile.jpg){width="2in" style="border-radius:50%"}
+:::
+
+::: g-col-6
+**Dr. Ches Thurber**
+
+{{< fa university >}}   403 Zulauf Hall\
+{{< fa envelope >}}   <a href="mailto:{{cthurber@niu.edu}}">cthurber\@niu.edu </a>\
+{{< fa calendar >}}   Office Hours: M/W 9:30am - 10:30am\
+{{< fa calendar-check >}}   [Schedule an appointment](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ismsaljsauthenabled&ep=plink)
+:::
+:::
+
+## What is this course about?
+
+This course is intended as a graduate-level survey of the literature on the dynamics of political mobilization, revolt, and repression. We will ask questions such as what motivates individuals to resist government rule? How and when do groups mobilize to express dissent? What tactics do they use and why? How do states respond to dissent? How do transnational forces affect these patterns of repression and dissent? To answer these questions, we will draw on major works from comparative politics, international relations, and sociology. A uniting theme is the view of contention as not an aberration, but a (the?) central dynamic of political order, through which institutions are formed and changed, and social contracts are (re-)negotiated. We will examine multiple methodological approaches to this field of study, ranging from comparative historical analysis to cross-national quantitative statistics, and from ethnography to formal modeling. Students will develop a broad understanding of major works and theoretical traditions in the study of contentious politics, the current frontiers of the field, and the art of constructing book-length research projects in political science.
+
+# What's with the course numbers?
+
+This course is being offered as a special topics course in both the IR and CP subfields. Students have the opportunity to take the course under the 672 or the 686 numbers, depending on their curricular needs. Students are encouraged to talk with the Director of Graduate Studies as well as the faculty in their subfields to develop an overall course of study that aligns with their needs.
+
+# Texts
+
+This course focuses on major books as the primary texts of study. The point here is twofold. First, I want to give you the chance to carefully read classic works that are often short-changed in modern syllabi because of their length. Second, I want you to be able to see how scholars construct and carry-out a book-length argument. After all, most of you will be writing "book-style" dissertations, so you need to read complete academic books to understand the genre. That said, there are drawbacks. Because books require more time to read, we will be unable to cover the literature as broadly. More practically, books are expensive. Fortunately, almost all of the titles for this class are available electronically from the library. You can look them up in the catalogue, and download an electronic version of the text, much as you would a journal article. I have marked these books (EL) below. Others, however, you will need to obtain on your own. Many are available used for very reasonable prices. 
+
+The following are the books that we will be reading in this course:
+
+- @Tilly1978 (BB)
+- @Skocpol1979 (EL)
+- @Weinstein2007 (EL)
+- @Mampilly2011 (EL)
+- @Chenoweth2011 (EL)
+- @Straus2006 (EL)
+
+# Evaluation
+
+*Class attendance, preparation and participation (10%):*
+The time we spend in class is for me the most important of this course. As such, punctual attendance is mandatory. But more important than just being present is that you are actively engaged. I expect that you have done the readings and that you try to participate in discussion each and every class section.
+
+*Reading Analyses (10%):*
+For each week, you will be required to draft written summaries on each of the readings. These summaries will be invaluable as you prepare for comps as well as help ensure a high level of discussion in seminar. You may pick five weeks over the course of the semester in which you opt not to complete summaries. Summaries are due at midnight the day BEFORE class. This will allow me to read them before class and draw on them for our discussion.
+
+*Final Project (60%):*
+You will produce a research paper similar in scope to what you might present at a professional academic conference (6k-8k words). It should identify a puzzle in the realm of international security, broadly defined, propose a theoretical explanation, and evaluate that explanation with quantitative and/or qualitative evidence. 
+
+You will produce two drafts of the paper, the first of which will be reviewed by me and another student. You will then have the opportunity to produce a revised version of the paper. Each version is worth 30 percent of your grade.
+
+Variation in the final project is welcomed based upon your specific needs. This includes, but is not limited to:
+
+- improving a paper from a previous course
+- writing a paper in combination with another course
+- preparing comps-style essays in lieu of a research paper.
+
+Please talk with me as early as possible in the semester to discuss these alternatives.
+
+*Peer Review Essay (20%):*
+
+You will read another student's initial research paper draft and write a 1,000 word review memo as if you had been asked to read the paper as a submission to a professional political science journal (except that you will *not* be making a recommendation for publication). Your memo will be sent to the author, but the identities of both author and reviewer will be kept anonymous. Of course, in a small class, it is entirely possible that you may be able to figure out the identities of either the author or reviewer. This is often true in professional practice as well. But I expect that you not engage in deliberate efforts to ascertain or disclose identities, as is the professional norm.
+
+# Grading Standards
+
+As a graduate student, you are at the point in your professional development where it is your written work itself that matters (and how that work is received by a broader scholarly community) more than the grade arbitrarily assigned by a single cantankerous professor. Nevertheless, grades can serve as a helpful signaling device for your own self-assessment, for departmental funding decisions, and to admissions committees at PhD programs (for MA students planning to continue on...). The scheme below is taken from Prof. Kyle Beardsley in the political science department at Duke University with some modifications to adapt to our departmental norms and my own personal views. It may also be helpful to think about the grading distributionally. In the past, I have generally awarded between 1 and 3 straight As per graduate seminar. The modal grade has been an A-, with a few Bs and B+s.
+
+-   **A** : *Exceptional Performance.* Outstanding work on all course-related tasks at a level that distinguishes the student from other members of the class. A comprehensive and incisive command of the issues, literature, and substantive information relevant to the course. The ability to master and integrate large amounts of factual material and abstract theories.
+
+-   **A-** : *Very Good Performance.* Consistently strong work on all course-related tasks. A command of the issues, literature, and substantive information relevant to the course. Understands well and can integrate the relevant factual and theoretical material central to the course.
+
+-   **B+** : *Good Performance.* Solid work on all course-related tasks. A good grasp of the issues, literature, and substantive information relevant to the course. A very good command of factual and theoretical material, and some capacity to integrate the two.
+
+-   **B** : *Decent Performance.* Generally consistent work on most course-related tasks. A general understanding of the issues, literature, and substantive information relevant to the course. An acceptable understanding of factual and theoretical material, but limited evidence of the capacity to integrate the two.
+
+-   **B-** : *Barely Satisfactory Performance.* Mostly satisfactory work on course-related tasks, but with notable deficiencies. A general understanding of the issues, literature, and substantive information relevant to the course. Understands at a basic level the facts and theories related to the course, but with clear gaps, errors, or incomplete work. Grades lower than this represent unsatisfactory work.
+
+
+# Course Policies
+
+-   **Committed to your success:** Beyond all else, I am committed to the success of every student in this class. I encourage *everyone* in the class to reach out to me if there is anything I can do in terms of the delivery of the course that would help you be more successful. I might not always be able to make it happen, but I will never discourage you from asking.
+
+-   **Names and Pronouns**: It is my personal policy to allow graduate students to call me by my first name, "Ches." This reflects the idea that I view you all as colleagues-in-training. I usually use the he/him/his pronouns to refer to myself, but am equally comfortable being referred to with they/them/their. Please let me know how you prefer to be addressed, both in name and pronoun, if it differs from what is in the college directory. I will make every effort to address you in the way you wish to be addressed. Please try and do the same for your fellow classmates, as well as for other faculty in the department.
+
+-   **Americans with Disabilities Act and Non-Discrimination Statement:** If you need an accommodation for this class, please contact the Disability Resource Center as soon as possible. The DRC coordinates accommodations for students with disabilities. It is located on the 4th floor of the Health Services Building, and can be reached at 815-753-1303 or drc\@niu.edu. Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.
+
+- **Active Duty Military and Veterans Statement:** If you are a veteran, on active duty, in the reserves, or a spouse or dependent, and an aspect of your present or prior service makes it difficult for you to fulfill the requirements of the course, keep me informed about your situation and I will work with you. For service members, should you receive military orders during the semester or know of classes that will be missed due to service commitments, please speak with me as soon as possible to request accommodations. The Office of Military and Veteran Services serves as a central resource for our unique and diverse population of students at Northern Illinois University. By developing student-centered programming and providing excellent customer service, they strive to enhance the learning environment and develop a culture of inclusion for all military students. The Military and Veteran Services department can be reached at (815) 753-0691, mss@niu.edu, or Military and Veteran Services - NIU - Northern Illinois University.
+
+-   **Mental Health and Well-being**: Graduate students experience a range of academic, social, and personal stresses that at times can be overwhelming. You are not alone. Well-being at NIU offers resources, programs, and services. If you or someone you know need assistance with comprehensive or crisis mental health support, Counseling and Consultation Services (CCS) at 815-753-1206 is ready to help 24 hours a day, 7 days a week. Additionally, the National Suicide Prevention Lifeline can be reached at 988.
+
+-   **Academic Integrity**: Good academic work must be based on honesty. The attempt of any student to present as his or her own work that which he or she has not produced is regarded by the faculty and administration as a serious offense. Students are considered to have cheated if they copy the work of another during an examination or turn in a paper or an assignment written, in whole or in part, by someone else.  Students are guilty of plagiarism, intentional or not, if they copy material from books, magazines, or other sources without identifying and acknowledging those sources or if they paraphrase ideas from such sources without acknowledging them. Using Artificial Intelligence tools in a manner not permitted by the instructions for an assignment is also considered an act of academic dishonesty. Students guilty of, or assisting others in, either cheating or plagiarism on an assignment, quiz, or examination may receive a grade of F for the course involved and may be suspended or dismissed from the university.
+
+    This is an issue I take seriously. Unfortuntely, it has increasingly become an issue in the graduate political science program. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty will *always* result in an F on the assignment and notification to the department chair and director of graduate studies.
+
+-   **Artificial Intelligence**: Generative artificial intelligence (AI) has already become a valuable tool for academic researchers as well as policy practitioners. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. The challenge, however, is that reliance on AI tools can short-circuit the learning process, preventing you from developing the skills and knowledge you need to be successful. Furthermore, AI is fraught with ethical, environmental, social, and intellectual property issues (see some thoughtful commentary by Prof. Andrew Heiss at Georgia State [here](https://www.andrewheiss.com/ai/)).
+
+Permitted AI use will vary by assignment as follows:
+
+1) For all assignments, students may use software that provides grammatical/stylistic suggestions for text originally written by the student on a sentence by sentence basis (e.g. Grammarly free edition). Submitting a complete document to an LLM model with instructions to universally fix/improve grammar and/or style is not permitted.
+
+2) For weekly reading memos and for the peer review assignment, no AI use beyond the above is allowed.
+
+3) Students may use AI as a research tool to identify sources and arguments within the literature. In such cases, students must *ALWAYS* identify, read, and cite the original source. Students will be held responsible for any incorrect information or hallucinated sources that come from AI tools.
+
+4) In all written work, the use of direct or paraphrased text from an AI source is explicitly prohibited. In cases where AI detectors identify a high probability of AI-generated content, the student will be invited to an oral examination of the content.
+
+
+# Class Schedule
+
+Students are expected to read the following before Friday's class session. Readings marked (EL) are available electronically from the library. Those marked (BB) are posted on Blackboard. Students are responsible for obtaining all others.
+
+# *Challengers and States *
+
+### `r advdate(mon, 1)`
+
+- @Gurr1970 [Intro-Ch. 1] (BB)
+- @Tilly1978 [Chs. 1-4] (BB)
+
+### `r advdate(mon, 2)` (Online)
+
+- @Tilly1978 [Chs. 5-8] (BB)
+- @Cederman2017 (BB)
+
+### `r advdate(mon, 3)`
+
+- @Skocpol1979 [Chs. 1-3] (EL)
+- @Tilly1985 (BB)
+
+### `r advdate(mon, 4)` (Reschedule)
+
+- @Skocpol1979 [Chs. 4-Conclusion] (EL)
+
+
+# *Organizing Rebellion*
+
+### `r advdate(mon, 5)`
+
+- @Kalyvas2003a (BB)
+- @Weinstein2007 [Intro - Ch. 3] (EL)
+
+###  `r advdate(mon, 6)`
+
+- @Weinstein2007 [Chs. 4-End] (EL)
+- @Staniland2012a (BB)
+
+###  `r advdate(mon, 7)`
+ 
+- @Mampilly2011 [Intro - Ch. 3] (EL)
+- @Loyle2022 (BB)
+
+###  `r advdate(mon, 8)`: 
+
+- @Mampilly2011 [Chs. 4-End] (EL)
+
+
+# *Revolution without Violence?*
+
+### `r advdate(mon, 9)`
+
+- @Chenoweth2011
+
+###  `r advdate(mon, 10)`:
+
+- Paper First Submission Due
+- @Thurber2019 and Reviewer Comments
+
+### `r advdate(mon, 11)`: 
+
+- Review Memos Due
+- @Manekin2022
+
+# *State Violence*
+
+###  `r advdate(mon, 12)`
+
+- @Straus2007
+- @Straus2006 [Intro-Ch. 3]
+
+###  `r advdate(mon, 13)`
+
+- @Straus2006 [Ch. 4 - Conclusion]
+
+###  `r advdate(mon, 14)` *Thanksgiving - No Class*
+
+
+###  `r advdate(mon, 15)` Final Class
+
+
+**Paper Final Submission Due: Monday 12/7 at 5pm.**
+
