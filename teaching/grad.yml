@@ -29,12 +29,13 @@
     url: syllabi/POLS641_Syllabus_Fall2021.pdf
   
 - title: Contentious Politics
-  description: "Seminar addresses major theoretical perspectives in security studies, surveys some of the most important substantive areas and debates in the field, and applies theories and arguments from the academic literature to contemporary policy problems. Topics to be covered include but are not limited to the use of force, weapons of mass destruction, intra-state conflict, and great power rivalry.
-"
+  description: "Graduate-level survey of the literature on the dynamics of political mobilization, revolt, and repression."
   university: Northern Illinois University
   number: POLS 689
   logo: logos/POLS689.jpg
   semester:
+  - name: Fall 2026
+    url: syllabi/POLS672686_Syllabus_Fall2026.qmd
   - name: Spring 2022
     url: syllabi/POLS689_Syllabus_Spring2022.pdf
   
