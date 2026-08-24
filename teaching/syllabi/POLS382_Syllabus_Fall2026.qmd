@@ -1,0 +1,246 @@
+---
+title: 'POLS 382 --- Topics in Contemporary Security' 
+subtitle: 'Fall 2026'
+date-modified: 'August 23, 2026'
+page-layout: full
+toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, dev='pdf')
+first.class <- as.Date("2023-08-24")
+# fri <- as.Date("2016-01-08")
+
+advdate <- function(wk, dy) {
+ cdate <- first.class + 7*(wk-1) + 4*(dy-1)
+ cdate <- format(cdate, format="%m/%d")
+ cday <- ifelse(dy==1, "Monday", "Friday")
+ tmp <- paste(cday, cdate)
+ return(tmp)
+}
+
+
+```
+
+::: {.callout-important title="Key Course Info" icon="false"}
+- **CATALOG DESCRIPTION:**   Analysis of major theoretical perspectives and debates associated with contemporary conflicts, including issues such as terrorism, drone warfare, civil wars, conflict in developing nations, inter-state conflict, nuclear weapons development, small-arms proliferation, and religious violence."
+- **MODALITY:**   This is an in-person course. We meet **Monday and Wednesdays from 11:00-12:15 in DuSable 474.**
+- **CREDITS:**   3 credit hours. The course counts toward the electives for all political science degree emphases and fulfills specific 300-level requirements for the emphasis in International Politics.
+- **ASSESSMENTS:**   Major assessments consist of two exams, a media interview assignment, and a final simulation activity. In addition, there are weekly reading quizzes and discussion board posts.
+- **PREREQUISITES:**   None! Students at all levels and from all majors are encouraged to enroll!
+- **MATERIALS:**   There are no materials to purchase. Everything students need will be posted on Blackboard.
+:::
+
+### Instructor
+
+::::: {.grid .course-details .course-details-smaller}
+::: g-col-4
+![](/img/Thurber_Profile.jpg){style="border-radius:50%"}
+:::
+
+::: g-col-6
+**Dr. Ches Thurber**
+
+{{< fa university >}}   403 Zulauf Hall\
+{{< fa envelope >}}   <a href="mailto:{{cthurber@niu.edu}}">cthurber\@niu.edu </a>\
+{{< fa calendar >}}   Office Hours: M/W 9:30 - 11:00 am\
+{{< fa calendar-check >}}   [Schedule an appointment](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ep=plink)
+:::
+:::::
+
+## What is this course about?
+
+This course begins with a review of foundational theories of international relations. It then surveys 4-5 different topics in contemporary international security. In the first week of class, students will select which topics they want to study. Options include, but are not limited to:
+
+- Nuclear proliferation
+- Terrorism
+- Humanitarian Intervention
+- Genocide
+- Unarmed Uprisings
+- Civil Wars
+- Technology and Warfare
+- Great Power Conflict
+
+## What will you learn in this course?
+
+In this class, you will become familiar with major debates in international security, and how those competing perspectives approach contemporary challenges. But more than other IR and security classes offered at NIU, this course will focus on some of the specific technical background and latest developments on these issues.
+
+In the liberal arts tradition, I am interested not just in the topical knowledge you acquire, but the skills you develop that you will use in your professional careers and as engaged public citizens. We will work on producing quick, but informed responses, to breaking events through writing and speaking assignments.
+
+## How will the class run?
+
+This will be an in-person class with required attendance. The class will combine lectures, discussions, and simulation activities. Mondays will lean a little more toward lecture, while Wednesdays will start with a discussion or writing activity led by the teaching assistant. In addition to weekly readings, you will take a weekly reading quiz on Blackboard.
+
+::: {.callout-important title="Stay on track!" icon="false"}
+Attendance and active participation in class discussions is required. It is essential that you come to class having completed the readings and ready to participate in discussion every class period.
+:::
+
+## How can you contact me?
+
+Please feel free to email me or the course teaching assistants at any time. We will try to respond within about 24 hours during the week. I will be holding office hours on Mondays and Wednesdays between 9:00 and 10:30. I strongly encourage you to take advantage of this! Sign up for an appointment at [this link](https://outlook.office.com/bookwithme/user/98dc16b0ceaf4ecf9ef1e30ab5793c37@niu.edu?anonymous&ep=plink). You can schedule either an in-person or virtual appointment.
+
+## What Materials Do You Need?
+
+All readings for this course will be posted on Blackboard or made accessible online through the NIU library.
+
+## Evaluation
+
+*Class attendance, preparation and participation (10%):* The time we spend in class is for me the most important of this course. As such, punctual attendance is mandatory. But more important than just being present at a desk is that you are actively engaged. I expect that you have done the readings and that you try to participate in discussion each and every class section. You may miss up to 2 classes during the course of the semester without penalty. Beyond that, I ask that you write a brief 1-page summary of the readings assigned for the missed day as make-up work to receive attendance credit.
+
+*Reading Quizzes (15%):* Each week, by the start of WEDNESDAY'S CLASS, you will have an online reading quiz to complete. It will be a 5-question multiple-choice quiz. Quizzes are open book, open-note, open anything. You may attempt the quiz twice. Blackboard will show you which questions you got wrong the first time, but not the correct answer.
+
+*Midterm Exams: (2 x 20%)* There will be two in-class midterm exams. They will take the form of writing a memo to a policymaker on a breaking situation related to one of the topics studied.
+
+*Media Interview: (30%)* You will be asked to prepare either as a TV journalist or a subject matter expert and conduct a live recorded segment as if you were on the evening news. The assignment will be repeated later in teh semester with students taking the opposite role. 20% of the grade will be for the role as subject matter expert and 10% for the role of interviewer.
+
+*Final Simulation: (5%)* We will use the final exam period for a simulation activity. Thorough preparation and active engagement is expected. In addition, there will be a small written preparatory assignment due before the start of the simulation.
+
+## What should you do if you are falling behind?
+
+While it is extremely important that you stick to the weekly schedule of this class, I recognize that stuff happens. The most important thing is that you **communicate** with me about your needs. I respect your privacy and will never ask you for personal details of your situation.
+
+If you think you need to delay submitting a written assignment, please talk to me in advance, if possible, and I will try to be accommodating. Any missed exam or written assignment submitted after the deadline without prior authorization will incur a penalty. If you do miss an assignment, still reach out and we will come up with a plan for getting you back on track. There will be a late penalty, but it will be far better than failing to turn in an assignment altogether.
+
+::: {.callout-important title="If you fall behind ... reach out!" icon="false"}
+Communicating is the most important thing you can do if you are falling behind. It is natural to feel embarassed and try to avoid the situation. But this is the worst thing you can do in terms of your success in this course. If you reach out, I will respect your privacy, will not pass judgment, and will work with your to come up with a game plan to get you back on track
+:::
+
+## Letter Grade Distribution
+
+| Percentage    | Letter Grade |
+|:--------------|:-------------|
+| \> 93.00      | A            |
+| 90.00 - 92.99 | A-           |
+| 87.00-89.99   | B+           |
+| 83.00 - 86.99 | B            |
+| 80.00 - 82.99 | B-           |
+| 77.00-79.99   | C+           |
+| 70.00 - 76.99 | C            |
+| 60.00 - 69.99 | D            |
+| \< 60.00      | F            |
+
+## Course Policies
+
+- **Committed to your success:** Beyond all else, I am committed to the success of every student in this class. I encourage *everyone* in the class to reach out to me if there is anything I can do in terms of the delivery of the course that would help you be more successful. I might not always be able to make it happen, but I will never discourage you from asking.
+
+- **Names and Pronouns**: I ask that my undergraduate students refer to me as either Dr. or Professor Thurber. I'm just old-school that way. If you have deep ideological opposition to the hierarchy of academic titles, I will also respond to "Comrade Thurber." I usually use the he/him/his pronouns to refer to myself, but am equally comfortable being referred to with they/them/their. Please let me know how you prefer to be addressed, both in name and pronoun, especially if it differs from what is in the college directory. I will make every effort to address you in the way you wish to be addressed. Please try and do the same for your fellow classmates, as well as for other faculty in the department.
+
+- **Americans with Disabilities Act and Non-Discrimination Statement:** If you need an accommodation for this class, please contact the Disability Resource Center as soon as possible. The DRC coordinates accommodations for students with disabilities. It is located on the 4th floor of the Health Services Building, and can be reached at 815-753-1303 or drc\@niu.edu. Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.
+
+- **Mental Health and Well-being**: I understand that college students may experience a range of academic, social, and personal stressors, which can be overwhelming. You are not alone. Well-being at NIU offers resources, programs, and services. If you or someone you know need assistance with comprehensive or crisis mental health support, Counseling and Consultation Services (CCS) at 815-753-1206 is ready to help 24 hours a day, 7 days a week. Additionally, the National Suicide Prevention Lifeline can be reached at 988.
+
+- **Academic Integrity**: Good academic work must be based on honesty. The attempt of any student to present as his or her own work that which he or she has not produced is regarded by the faculty and administration as a serious offense. Students are considered to have cheated if they copy the work of another during an examination or turn in a paper or an assignment written, in whole or in part, by someone else. Students are guilty of plagiarism, intentional or not, if they copy material from books, magazines, or other sources without identifying and acknowledging those sources or if they paraphrase ideas from such sources without acknowledging them. Students guilty of, or assisting others in, either cheating or plagiarism on an assignment, quiz, or examination may receive a grade of F for the course involved and may be suspended or dismissed from the university.
+
+  This is an issue I take seriously. Unfortunately, it has increasingly become an issue in my courses. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty will *always* result in an F on the assignment and a formal misconduct report filed with the university. The recommendation I make in that report (e.g. failure from the course, suspension, expulsion from the university) will depend on the circumstance.
+
+- **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become an essential tool in the workplace and society. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. The challenge then becomes learning how to use it well and how to develop those critical thinking and writing skills in an AI world. Students are allowed to use AI tools at their discretion to prepare for assignments in this course. However, it may not be used to directly produce any written work. Relatedly, all major assessments require writing to be done in the classroom in a "closed-book" environment.
+
+Students are expected to read the listed readings before the indicated class session.
+
+# Class Schedule
+
+Students are expected to read the listed readings before the indicated class session.
+
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Topic                              | Assignments                                                                                                                                                       |
++====================================+:==================================================================================================================================================================+
+| **Week 1: Intro to the Course**    | *Mon 8/24: Simulation Activity*                                                                                                                                   |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 8/26: Studying Security*                                                                                                                                     |
+|                                    |                                                                                                                                                                   |
+|                                    | - Read the Syllabus                                                                                                                                               |
+|                                    |                                                                                                                                                                   |
+|                                    | - Mattis, "On Reading"                                                                                                                                            |
+|                                    |                                                                                                                                                                   |
+|                                    | - Crowley, "Why the White House is Reading Greek History"                                                                                                         |
+|                                    |                                                                                                                                                                   |
+|                                    | - NYT Interview with Undersecretary of Defense Elbridge Colby                                                                                                     |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 2: Analytic Frameworks**    | *Mon 8/31: Realism*                                                                                                                                               |
+|                                    |                                                                                                                                                                   |
+|                                    | - Mearsheimer, "The Iron Cage of International Anarchy"                                                                                                           |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 9/2: Levels of Analysis and Paradigms*                                                                                                                       |
+|                                    |                                                                                                                                                                   |
+|                                    | - No In-Person Class!                                                                                                                                             |
+|                                    |                                                                                                                                                                   |
+|                                    | - Videos on LoA and Paradigms                                                                                                                                     |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 3: Drivers of Conflict**    | *Mon 9/7: Offense, Defense, and the Security Dilemma*                                                                                                             |
+|                                    |                                                                                                                                                                   |
+|                                    | - Walt, "Does Anyone Still Understand the Security Dilemma?"                                                                                                      |
+|                                    |                                                                                                                                                                   |
+|                                    | - Van Rythoven, ["What Walsh and Mearsheimer Get Wrong about the Security Dilemma"](https://www.duckofminerva.com/2022/08/walt-mearsheimer-security-dilemma.html) |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 9/9: The Bargaining Model*                                                                                                                                   |
+|                                    |                                                                                                                                                                   |
+|                                    | - Frieden et al., "Why Are There Wars?"                                                                                                                           |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 4: Drivers of Cooperation** | *Mon 9/14: Interdependence*                                                                                                                                       |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 9/16: Global Governance*                                                                                                                                     |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 5: Topic 1**                | *Mon 9/21: TBD*                                                                                                                                                   |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 9/23: TBD*                                                                                                                                                   |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 6: Topic 1**                | *Mon 9/28: TBD*                                                                                                                                                   |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 9/30: TBD*                                                                                                                                                   |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 7: Topic 2**                | *Mon 10/5: MIDTERM EXAM #1*                                                                                                                                       |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 10/7: TBD*                                                                                                                                                   |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 8: Topic 2**                | *Mon 10/12: TBD*                                                                                                                                                  |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 10/14: TBD*                                                                                                                                                  |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 9: Topic 2**                | *Mon 10/19: TBD*                                                                                                                                                  |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 10/21: MEDIA INTERVIEW ASSIGNMENT #1*                                                                                                                        |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 10: Topic 3**               | *Mon 10/26: TBD*                                                                                                                                                  |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 10/28: TBD*                                                                                                                                                  |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 11: Topic 3**               | *Mon 11/2: TBD*                                                                                                                                                   |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 11/4: TBD*                                                                                                                                                   |
+|                                    |                                                                                                                                                                   |
+|                                    | - Reading Quiz                                                                                                                                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 12: Topic 4**               | *Mon 11/9: MIDTERM EXAM #2*                                                                                                                                       |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 11/11: TBD*                                                                                                                                                  |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 13: Topic 4**               | *Mon 11/16: TBD*                                                                                                                                                  |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 11/18: TBD*                                                                                                                                                  |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 14: Topic 4**               | *Mon 11/23: MEDIA INTERVIEW ASSIGNMENT #2*                                                                                                                        |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 11/25: NO CLASS - THANKSGIVING*                                                                                                                              |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 15: Simulation Prep**       | *Mon 11/30: TBD*                                                                                                                                                  |
+|                                    |                                                                                                                                                                   |
+|                                    | *Wed 12/2: Prep or Simulation Day #1*                                                                                                                             |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Finals Week**                    | *Wed 12/9: Final Simulation 10:00-11:50am*                                                                                                                        |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
