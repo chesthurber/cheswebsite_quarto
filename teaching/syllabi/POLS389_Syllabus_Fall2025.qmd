@@ -7,12 +7,12 @@ toc: true
 ---
 
 ::: {.callout-important title="Key Course Info" icon="false"}
--   **TOPIC:**   This course covers the subfield of international relations that focuses on international law, international organizations, and global governance.
--   **MODALITY:**   This is an in-person course that meets twice a week on Mondays and Wednesdays from 11:00 - 12:15 in DuSable 176. Attendance is **required.**
--   **CREDITS:**   3 credit hours. The course counts toward the Political Science major and the degree emphasis in International Politics
--   **ASSESSMENTS:**   Major assessments consist of a midterm exam, participation in simulation activities, and writing assignments related to those simulations.
--   **PREREQUISITES:**   None! Students at all levels and from all majors are encouraged to enroll!
--   **MATERIALS:**   Students are required to obtain access to three books. Rental and used prices total \$40-70 and library options are available for some texts as well.
+- **TOPIC:**   This course covers the subfield of international relations that focuses on international law, international organizations, and global governance.
+- **MODALITY:**   This is an in-person course that meets twice a week on Mondays and Wednesdays from 11:00 - 12:15 in DuSable 176. Attendance is **required.**
+- **CREDITS:**   3 credit hours. The course counts toward the Political Science major and the degree emphasis in International Politics
+- **ASSESSMENTS:**   Major assessments consist of a midterm exam, participation in simulation activities, and writing assignments related to those simulations.
+- **PREREQUISITES:**   None! Students at all levels and from all majors are encouraged to enroll!
+- **MATERIALS:**   Students are required to obtain access to three books. Rental and used prices total \$40-70 and library options are available for some texts as well.
 :::
 
 ### Instructor
@@ -86,35 +86,35 @@ Please feel free to email me or the course teaching assistant at any time. We wi
 
 The required textbooks for the course are:
 
--   **Leslie Johns, *Politics and International Law Making, Breaking, and Upholding Global Rules.* Cambridge University Press, 2022.**
+- **Leslie Johns, *Politics and International Law Making, Breaking, and Upholding Global Rules.* Cambridge University Press, 2022.**
 
-    -   Available at bookstore for \$53.
+  - Available at bookstore for \$53.
 
-    -   Used and new copies available on Amazon [here.](https://www.amazon.com/Politics-International-Law-Leslie-Johns/dp/110898665X)
+  - Used and new copies available on Amazon [here.](https://www.amazon.com/Politics-International-Law-Leslie-Johns/dp/110898665X)
 
-    -   Available on reserve at library,
+  - Available on reserve at library,
 
-    -   Immediately needed for class.
+  - Immediately needed for class.
 
--   **David L. Bosco. *Five to Rule Them All: The UN Security Council and the Making of the Modern World.* Oxford University Press, 2009.**
+- **David L. Bosco. *Five to Rule Them All: The UN Security Council and the Making of the Modern World.* Oxford University Press, 2009.**
 
-    -   Available at the bookstore.
+  - Available at the bookstore.
 
-    -   Used and new copies available on Amazon [here.](https://www.amazon.com/Five-Rule-Them-All-Security/dp/0195328760) \$8-\$22
+  - Used and new copies available on Amazon [here.](https://www.amazon.com/Five-Rule-Them-All-Security/dp/0195328760) \$8-\$22
 
-    -   Copy available on reserve at the library for 2-hour in-library use.
+  - Copy available on reserve at the library for 2-hour in-library use.
 
-    -   First used in class November 6th.
+  - First used in class November 6th.
 
--   **Kenneth Cain, Heidi Postlewaite, and Andrew Thomson. *Emergency Sex and Other Desperate Measures: True Stories from a War Zone*. Ebury, 2006.**
+- **Kenneth Cain, Heidi Postlewaite, and Andrew Thomson. *Emergency Sex and Other Desperate Measures: True Stories from a War Zone*. Ebury, 2006.**
 
-    -   Not available at bookstore!
+  - Not available at bookstore!
 
-    -   Used and new copies available on Amazon [here.](https://www.amazon.com/Emergency-Sex-Other-Desperate-Measures/dp/0091908868) \$3-\$22
+  - Used and new copies available on Amazon [here.](https://www.amazon.com/Emergency-Sex-Other-Desperate-Measures/dp/0091908868) \$3-\$22
 
-    -   Can be requested via inter-library loan for 2-3 weeks (?).
+  - Can be requested via inter-library loan for 2-3 weeks (?).
 
-    -   First used in class Nov. 27th.
+  - First used in class Nov. 27th.
 
 ## Evaluation
 
@@ -133,15 +133,15 @@ The required textbooks for the course are:
 ::: {.callout-important title="The work, at a glance" icon="false"}
 **Weekly work:**
 
--   Reading assigned texts
--   Reading quiz by Wednesday's class
+- Reading assigned texts
+- Reading quiz by Wednesday's class
 
 **Major deliverables:**
 
--   Midterm Exam
--   ICJ Simulation
--   Book Discussion Board Posts
--   UNSC Simulation
+- Midterm Exam
+- ICJ Simulation
+- Book Discussion Board Posts
+- UNSC Simulation
 :::
 
 ## Honors Section
@@ -178,21 +178,21 @@ Communicating is the most important thing you can do if you are falling behind. 
 
 ## Course Policies
 
--   **Committed to your success:** Beyond all else, I am committed to the success of every student in this class. I encourage *everyone* in the class to reach out to me if there is anything I can do in terms of the delivery of the course that would help you be more successful. I might not always be able to make it happen, but I will never discourage you from asking.
+- **Committed to your success:** Beyond all else, I am committed to the success of every student in this class. I encourage *everyone* in the class to reach out to me if there is anything I can do in terms of the delivery of the course that would help you be more successful. I might not always be able to make it happen, but I will never discourage you from asking.
 
--   **Names and Pronouns**: I ask that my undergraduate students refer to me as either Dr. or Professor Thurber. I'm just old-school that way. If you have deep ideological opposition to the hierarchy of academic titles, I will also respond to "Comrade Thurber." I usually use the he/him/his pronouns to refer to myself, but am equally comfortable being referred to with they/them/their. Please let me know how you prefer to be addressed, both in name and pronoun, especially if it differs from what is in the college directory. I will make every effort to address you in the way you wish to be addressed. Please try and do the same for your fellow classmates, as well as for other faculty in the department.
+- **Names and Pronouns**: I ask that my undergraduate students refer to me as either Dr. or Professor Thurber. I'm just old-school that way. If you have deep ideological opposition to the hierarchy of academic titles, I will also respond to "Comrade Thurber." I usually use the he/him/his pronouns to refer to myself, but am equally comfortable being referred to with they/them/their. Please let me know how you prefer to be addressed, both in name and pronoun, especially if it differs from what is in the college directory. I will make every effort to address you in the way you wish to be addressed. Please try and do the same for your fellow classmates, as well as for other faculty in the department.
 
--   **Americans with Disabilities Act and Non-Discrimination Statement:** If you need an accommodation for this class, please contact the Disability Resource Center as soon as possible. The DRC coordinates accommodations for students with disabilities. It is located on the 4th floor of the Health Services Building, and can be reached at 815-753-1303 or drc\@niu.edu. Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.
+- **Americans with Disabilities Act and Non-Discrimination Statement:** If you need an accommodation for this class, please contact the Disability Resource Center as soon as possible. The DRC coordinates accommodations for students with disabilities. It is located on the 4th floor of the Health Services Building, and can be reached at 815-753-1303 or drc\@niu.edu. Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.
 
--   **Mental Health and Well-being**: I understand that college students may experience a range of academic, social, and personal stressors, which can be overwhelming. You are not alone. Well-being at NIU offers resources, programs, and services. If you or someone you know need assistance with comprehensive or crisis mental health support, Counseling and Consultation Services (CCS) at 815-753-1206 is ready to help 24 hours a day, 7 days a week. Additionally, the National Suicide Prevention Lifeline can be reached at 988.
+- **Mental Health and Well-being**: I understand that college students may experience a range of academic, social, and personal stressors, which can be overwhelming. You are not alone. Well-being at NIU offers resources, programs, and services. If you or someone you know need assistance with comprehensive or crisis mental health support, Counseling and Consultation Services (CCS) at 815-753-1206 is ready to help 24 hours a day, 7 days a week. Additionally, the National Suicide Prevention Lifeline can be reached at 988.
 
--   **Academic Integrity**: Good academic work must be based on honesty. The attempt of any student to present as his or her own work that which he or she has not produced is regarded by the faculty and administration as a serious offense. Students are considered to have cheated if they copy the work of another during an examination or turn in a paper or an assignment written, in whole or in part, by someone else. Students are guilty of plagiarism, intentional or not, if they copy material from books, magazines, or other sources without identifying and acknowledging those sources or if they paraphrase ideas from such sources without acknowledging them. Students guilty of, or assisting others in, either cheating or plagiarism on an assignment, quiz, or examination may receive a grade of F for the course involved and may be suspended or dismissed from the university.
+- **Academic Integrity**: Good academic work must be based on honesty. The attempt of any student to present as his or her own work that which he or she has not produced is regarded by the faculty and administration as a serious offense. Students are considered to have cheated if they copy the work of another during an examination or turn in a paper or an assignment written, in whole or in part, by someone else. Students are guilty of plagiarism, intentional or not, if they copy material from books, magazines, or other sources without identifying and acknowledging those sources or if they paraphrase ideas from such sources without acknowledging them. Students guilty of, or assisting others in, either cheating or plagiarism on an assignment, quiz, or examination may receive a grade of F for the course involved and may be suspended or dismissed from the university.
 
-    This is an issue I take seriously. Unfortunately, it has increasingly become an issue in my courses. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty will *always* result in an F on the assignment and a formal misconduct report filed with the university. The recommendation I make in that report (e.g. failure from the course, suspension, expulsion from the university) will depend on the circumstances.
+  This is an issue I take seriously. Unfortunately, it has increasingly become an issue in my courses. The creation of one's own original work is the core of what a university education is all about. Falsely claiming credit for words or ideas that are not your own undermines that core. I will use software that tracks plagiarism as well as for similarities with classmates' or even your own prior work. When work looks suspicious, I will often use additional measures to identify the original sources of plagiarized text. In this course, academic dishonesty will *always* result in an F on the assignment and a formal misconduct report filed with the university. The recommendation I make in that report (e.g. failure from the course, suspension, expulsion from the university) will depend on the circumstances.
 
--   **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become an essential tool in the workplace and society. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. The challenge then becomes learning how to use it well and how to develop those critical thinking and writing skills in an AI world.
+- **Artificial Intelligence**: Generative artificial intelligence (AI) is almost certainly going to become an essential tool in the workplace and society. Used well and in combination with strong critical thinking and writing skills, it may be able to help you be a better student and professional. The challenge then becomes learning how to use it well and how to develop those critical thinking and writing skills in an AI world.
 
-    For each assignment in this course, I will make clear whether and to what degree AI tools may be used. Violation of these rules will be considered academic dishonesty. If I suspect the use of AI in an assignment, I will invite the student to my office for a discussion about the substance of the assignment and the process used in completing it. A final grade will be assigned on the basis of both the written work and that discussion.
+  For each assignment in this course, I will make clear whether and to what degree AI tools may be used. Violation of these rules will be considered academic dishonesty. If I suspect the use of AI in an assignment, I will invite the student to my office for a discussion about the substance of the assignment and the process used in completing it. A final grade will be assigned on the basis of both the written work and that discussion.
 
 \newpage
 
@@ -200,97 +200,97 @@ Communicating is the most important thing you can do if you are falling behind. 
 
 Students are expected to read the listed readings before the indicated class session.
 
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| Topic:                                       | Posted        | Assignments                                                                                                                                   |
-+==============================================+===============+:==============================================================================================================================================+
-| **Week 1: Introduction**                     | Aug. 25       | Simulation                                                                                                                                    |
-|                                              |               |                                                                                                                                               |
-|                                              | Aug. 27       | -   [NYT, "Top UN Court Says Countries Must Act on Climate Change"](https://www.nytimes.com/2025/07/23/climate/icj-hague-climate-change.html) |
-|                                              |               | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 2: Law, Institutions, and IR Theory** | Sept. 1       | Labor Day                                                                                                                                     |
-|                                              |               |                                                                                                                                               |
-|                                              | Sept. 3       | -   Snyder, "One World, Many Theories"                                                                                                        |
-|                                              |               |                                                                                                                                               |
-|                                              |               | -   PIL, Ch. 1: Competing Perspectives on International Law and Politics                                                                      |
-|                                              |               |                                                                                                                                               |
-|                                              |               | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 3: Foundations of International Law** | Sept. 8       | -   *PIL,* Ch. 2: Making International Law                                                                                                    |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   *PIL,* Ch. 3: Breaking International Law                                                                                                  |
-|                                              |               |                                                                                                                                               |
-|                                              | Sept. 10      | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 4: Law of the Sea**                   | Sept. 15      | -   *PIL,* Ch. 4: Upholding International Law                                                                                                 |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   *PIL,* Ch. 5: Law of the Sea                                                                                                              |
-|                                              |               |                                                                                                                                               |
-|                                              | Sept. 17      | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 5: International Economic Relations** | Sept. 22      | -   *PIL,* Ch. 6: Trade                                                                                                                       |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   *PIL,* Ch. 7: Investment                                                                                                                  |
-|                                              |               |                                                                                                                                               |
-|                                              | Sept. 24      | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| Week 6: War and Peace                        | Sept. 29      | -   *PIL,* Ch. 9: Use of Force                                                                                                                |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   *PIL,* Ch. 10: Armed Conflict                                                                                                             |
-|                                              |               |                                                                                                                                               |
-|                                              | Oct. 1        | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 7: Human Rights**                     | Oct. 6        | -   *PIL,* Ch. 8: Human Rights                                                                                                                |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   *PIL,* Ch. 11: Criminal Responsibility                                                                                                    |
-|                                              |               |                                                                                                                                               |
-|                                              | Oct. 8        | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 8: Midterm Week**                     | Oct. 13       | -   Review Session                                                                                                                            |
-|                                              |               |                                                                                                                                               |
-|                                              | Oct. 15       | -   Midterm Exam                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 9: The Environment**                  | Oct. 20       | -   *PIL, Ch. 12:*                                                                                                                            |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   ICJ Prep Day                                                                                                                              |
-|                                              |               |                                                                                                                                               |
-|                                              | Oct. 22       | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 10: ICJ Mock Cases**                  | Oct. 27       | -   ICJ Case #1                                                                                                                               |
-|                                              |               |                                                                                                                                               |
-|                                              | Oct. 29       | -   ICJ Case #2                                                                                                                               |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 11: ICJ Mock Cases**                  | Nov. 3        | -   ICJ Case #3                                                                                                                               |
-|                                              |               |                                                                                                                                               |
-|                                              | Nov. 5        | -   ICJ Case #4                                                                                                                               |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 12: The UN Security Council**         | Nov. 10       | -   *Five to Rule,* Chs. 1-2                                                                                                                  |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   *Five to Rule,* Chs. 3-4                                                                                                                  |
-|                                              |               |                                                                                                                                               |
-|                                              | Nov. 12       | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 13: UNSC II**                         | Nov. 17       | -   *Five to Rule,* Chs. 5-6                                                                                                                  |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   *Five to Rule,* Chs. 7-Conclusion                                                                                                         |
-|                                              |               |                                                                                                                                               |
-|                                              | Nov. 19       | -   Reading Quiz                                                                                                                              |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 14: Aid and Intervention**            | Nov. 24       | OPTIONAL CLASS: "Living Room Conversation"                                                                                                    |
-|                                              |               |                                                                                                                                               |
-|                                              | Thanksgiving! | -   *Emergency Sex,* First Half                                                                                                               |
-|                                              |               |                                                                                                                                               |
-|                                              |               | -   Discussion Board Posts                                                                                                                    |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Week 15: Aid and Intervention II**         | Dec 1.        | -   *Emergency Sex,* Second Half                                                                                                              |
-|                                              |               |                                                                                                                                               |
-|                                              | \-            | -   Discussion Board Posts                                                                                                                    |
-|                                              |               |                                                                                                                                               |
-|                                              | Dec. 3        | -   Reading Quiz                                                                                                                              |
-|                                              |               |                                                                                                                                               |
-|                                              |               | -   Honors Section: Simulation Materials Due                                                                                                  |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-| **Finals Week**                              | Dec. 10       | -   UNSC Simulation Memos Due by 10am                                                                                                         |
-|                                              |               |                                                                                                                                               |
-|                                              | 10:00-11:50AM | -   UNSC Simulation                                                                                                                           |
-+----------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Topic:                                       | Posted        | Assignments                                                                                                                                 |
++==============================================+===============+:============================================================================================================================================+
+| **Week 1: Introduction**                     | Aug. 25       | Simulation                                                                                                                                  |
+|                                              |               |                                                                                                                                             |
+|                                              | Aug. 27       | - [NYT, "Top UN Court Says Countries Must Act on Climate Change"](https://www.nytimes.com/2025/07/23/climate/icj-hague-climate-change.html) |
+|                                              |               | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 2: Law, Institutions, and IR Theory** | Sept. 1       | Labor Day                                                                                                                                   |
+|                                              |               |                                                                                                                                             |
+|                                              | Sept. 3       | - Snyder, "One World, Many Theories"                                                                                                        |
+|                                              |               |                                                                                                                                             |
+|                                              |               | - PIL, Ch. 1: Competing Perspectives on International Law and Politics                                                                      |
+|                                              |               |                                                                                                                                             |
+|                                              |               | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 3: Foundations of International Law** | Sept. 8       | - *PIL,* Ch. 2: Making International Law                                                                                                    |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - *PIL,* Ch. 3: Breaking International Law                                                                                                  |
+|                                              |               |                                                                                                                                             |
+|                                              | Sept. 10      | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 4: Law of the Sea**                   | Sept. 15      | - *PIL,* Ch. 4: Upholding International Law                                                                                                 |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - *PIL,* Ch. 5: Law of the Sea                                                                                                              |
+|                                              |               |                                                                                                                                             |
+|                                              | Sept. 17      | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 5: International Economic Relations** | Sept. 22      | - *PIL,* Ch. 6: Trade                                                                                                                       |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - *PIL,* Ch. 7: Investment                                                                                                                  |
+|                                              |               |                                                                                                                                             |
+|                                              | Sept. 24      | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Week 6: War and Peace                        | Sept. 29      | - *PIL,* Ch. 9: Use of Force                                                                                                                |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - *PIL,* Ch. 10: Armed Conflict                                                                                                             |
+|                                              |               |                                                                                                                                             |
+|                                              | Oct. 1        | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 7: Human Rights**                     | Oct. 6        | - *PIL,* Ch. 8: Human Rights                                                                                                                |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - *PIL,* Ch. 11: Criminal Responsibility                                                                                                    |
+|                                              |               |                                                                                                                                             |
+|                                              | Oct. 8        | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 8: Midterm Week**                     | Oct. 13       | - Review Session                                                                                                                            |
+|                                              |               |                                                                                                                                             |
+|                                              | Oct. 15       | - Midterm Exam                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 9: The Environment**                  | Oct. 20       | - *PIL, Ch. 12:*                                                                                                                            |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - ICJ Prep Day                                                                                                                              |
+|                                              |               |                                                                                                                                             |
+|                                              | Oct. 22       | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 10: ICJ Mock Cases**                  | Oct. 27       | - ICJ Case #1                                                                                                                               |
+|                                              |               |                                                                                                                                             |
+|                                              | Oct. 29       | - ICJ Case #2                                                                                                                               |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 11: ICJ Mock Cases**                  | Nov. 3        | - ICJ Case #3                                                                                                                               |
+|                                              |               |                                                                                                                                             |
+|                                              | Nov. 5        | - ICJ Case #4                                                                                                                               |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 12: The UN Security Council**         | Nov. 10       | - *Five to Rule,* Chs. 1-2                                                                                                                  |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - *Five to Rule,* Chs. 3-4                                                                                                                  |
+|                                              |               |                                                                                                                                             |
+|                                              | Nov. 12       | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 13: UNSC II**                         | Nov. 17       | - *Five to Rule,* Chs. 5-6                                                                                                                  |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - *Five to Rule,* Chs. 7-Conclusion                                                                                                         |
+|                                              |               |                                                                                                                                             |
+|                                              | Nov. 19       | - Reading Quiz                                                                                                                              |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 14: Aid and Intervention**            | Nov. 24       | OPTIONAL CLASS: "Living Room Conversation"                                                                                                  |
+|                                              |               |                                                                                                                                             |
+|                                              | Thanksgiving! | - *Emergency Sex,* First Half                                                                                                               |
+|                                              |               |                                                                                                                                             |
+|                                              |               | - Discussion Board Posts                                                                                                                    |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week 15: Aid and Intervention II**         | Dec 1.        | - *Emergency Sex,* Second Half                                                                                                              |
+|                                              |               |                                                                                                                                             |
+|                                              | \-            | - Discussion Board Posts                                                                                                                    |
+|                                              |               |                                                                                                                                             |
+|                                              | Dec. 3        | - Reading Quiz                                                                                                                              |
+|                                              |               |                                                                                                                                             |
+|                                              |               | - Honors Section: Simulation Materials Due                                                                                                  |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| **Finals Week**                              | Dec. 10       | - UNSC Simulation Memos Due by 10am                                                                                                         |
+|                                              |               |                                                                                                                                             |
+|                                              | 10:00-11:50AM | - UNSC Simulation                                                                                                                           |
++----------------------------------------------+---------------+---------------------------------------------------------------------------------------------------------------------------------------------+
